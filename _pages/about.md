@@ -1,50 +1,135 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Ph.D. student in the [School of Computer Science](https://www.scs.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/). I work with [Prof. Ling Liu](https://www.cc.gatech.edu/home/lingliu/) and [Prof. Calton Pu](https://www.cc.gatech.edu/~calton/) at the [Distributed Data Intensive Systems Lab (DiSL)](https://www.cc.gatech.edu/projects/disl/). Before coming to Georgia Tech, I obtained my Bachelor's degree with **honors** in Computer Science and Technology from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
-A data-driven personal website
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Systems for Machine Learning
+* Machine Learning for Systems
+* Big Data Systems & Analytics
+* Edge AI Systems
 
-Getting started
+Publication
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
+**Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)\
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.html)][[code](https://github.com/git-disl/DP-Ensemble)]
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* _**Gradient-Leakage Resilient Federated Learning**_\
+Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyenger\
+2021 IEEE International Conference on Distributed Computing Systems (ICDCS 2021)
+[[paper](https://arxiv.org/abs/2107.01154)][[arXiv](https://arxiv.org/abs/2107.01154)][[code](https://github.com/git-disl/Fed-CDP)]
 
-**Markdown generator**
+* _**Learning TFIDF Enhanced Joint Embedding for Recipe-Image Cross-Modal Retrieval Service**_\
+Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, Luo Zhong\
+2021 IEEE Transactions on Services Computing\
+[[paper](https://ieeexplore.ieee.org/abstract/document/9495171)][[arXiv](https://arxiv.org/abs/2108.00724)][[code](https://github.com/git-disl/MSJE)]
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* _**Promoting High Diversity Ensemble Learning with EnsembleBench**_\
+**Yanzhao Wu**, Ling Liu, Zhongwei Xie, Juhyun Bae, Ka-Ho Chow, Wenqi Wei\
+2020 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9319329)][[arXiv](https://arxiv.org/abs/2010.10623)][[code](https://github.com/git-disl/EnsembleBench)][[video](https://youtu.be/ErZj_OxyYxc)]
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* _**Cross-Modal Joint Embedding with Diverse Semantics**_\
+Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, Luo Zhong\
+2020 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9319387)][[code](https://github.com/git-disl/MSJE)]
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+* _**Memory Abstraction and Optimization for Distributed Executors**_\
+Semih Sahin, Ling Liu, Wenqi Cao, Qi Zhang, Juhyun Bae, **Yanzhao Wu**\
+2020 International Conference on Collaborative Computing: Networking, Applications and Worksharing (IEEE CIC 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9319014)]
+
+* _**Adversarial Deception in Deep Learning: Analysis and Mitigation**_\
+Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
+2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9325360)][[code](https://github.com/git-disl/XEnsemble-1.0)]
+
+* _**Adversarial Objectness Gradient Attacks in Real-time Object Detection Systems**_\
+Ka-Ho Chow, Ling Liu, Margaret Loper, Juhyun Bae, Mehmet Emre Gursoy, Stacey Truex, Wenqi Wei, **Yanzhao Wu**\
+2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9325397)][[code](https://github.com/git-disl/TOG)][[video](https://youtu.be/acWI5pFNvwg)]
+
+
+* _**Efficient Orchestration of Host and Remote Shared Memory for Memory Intensive Workloads**_\
+Juhyun Bae, Gong Su, Arun Iyengar, **Yanzhao Wu**, Ling Liu\
+2020 International Symposium on Memory Systems (MEMSYS 2020)\
+[[paper](https://dl.acm.org/doi/10.1145/3422575.3422793)][[arXiv](https://arxiv.org/abs/2008.00902)][[code](https://github.com/git-disl/Valet)][[video](https://youtu.be/8b6ojSrkmiY)][[slides](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3422575.3422793&file=p194-bae.pptx)]
+
+
+* _**Understanding Object Detection Through an Adversarial Lens**_\
+Ka-Ho Chow, Ling Liu, Mehmet Emre Gursoy, Stacey Truex, Wenqi Wei, **Yanzhao Wu**\
+2020 European Symposium on Research in Computer Security (ESORICS 2020)\
+[[paper](https://link.springer.com/chapter/10.1007/978-3-030-59013-0_23)][[arXiv](https://arxiv.org/abs/2007.05828)][[code](https://github.com/git-disl/TOG)]
+
+* _**A Framework for Evaluating Client Privacy Leakages in Federated Learning**_\
+Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
+2020 European Symposium on Research in Computer Security (ESORICS 2020)\
+[[paper](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_27)][[arXiv](https://arxiv.org/abs/2004.10397)][[code](https://github.com/git-disl/ESORICS20-CPL)]
+
+* _**Cross-Layer Strategic Ensemble Defense Against Adversarial Examples**_\
+Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
+2020 International Conference on Computing, Networking and Communications (IEEE ICNC 2020)\
+[[paper](https://ieeexplore.ieee.org/document/9049702)][[arXiv](https://arxiv.org/abs/1910.01742)][[code](https://github.com/git-disl/XEnsemble-1.0)]
+
+* _**Demystifying Learning Rate Policies for High Accuracy Training of Deep Neural Networks**_\
+**Yanzhao Wu**, Ling Liu, Juhyun Bae, Ka-Ho Chow, Arun Iyengar, Calton Pu, Wenqi Wei, Lei Yu, Qi Zhang\
+2019 IEEE International Conference on Big Data (IEEE BigData 2019)\
+[[paper](https://ieeexplore.ieee.org/document/9006104)][[arXiv](https://arxiv.org/abs/1908.06477)][[code](https://github.com/git-disl/LRBench)]
+
+* _**Denoising and Verification Cross-Layer Ensemble Against Black-box Adversarial Attacks**_\
+Ka-Ho Chow, Wenqi Wei, **Yanzhao Wu**, Ling Liu\
+2019 IEEE International Conference on Big Data (IEEE BigData 2019)\
+[[paper](https://ieeexplore.ieee.org/document/9006090)][[arXiv](https://arxiv.org/abs/1908.07667)][[code](https://github.com/git-disl/GTAttackPod)]
+
+* _**Deep Neural Network Ensembles against Deception: Ensemble Diversity, Accuracy and Robustness**_\
+Ling Liu, Wenqi Wei, Ka-Ho Chow, Margaret Loper, Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
+16th IEEE Internatonal Conference on Mobile Adhoc and Sensor Systems (IEEE MASS 2019)\
+[[paper](https://ieeexplore.ieee.org/document/9077380)][[arXiv](https://arxiv.org/abs/1908.11091)][[code](https://github.com/git-disl/XEnsemble-1.0)]
+
+* _**A Comparative Measurement Study of Deep Learning as a Service Framework**_\
+**Yanzhao Wu**, Ling Liu, Calton Pu, Wenqi Cao, Semih Sahin, Wenqi Wei, Qi Zhang\
+2019 IEEE Transactions on Services Computing\
+[[paper](https://ieeexplore.ieee.org/document/8765795)][[arXiv](https://arxiv.org/abs/1810.12210)][[code](https://github.com/git-disl/GTDLBench)]
+
+* _**Memory Disaggregation: Research Problems and Opportunities**_\
+Ling Liu, Wenqi Cao, Semih Sahin, Qi Zhang, Juhyun Bae, **Yanzhao Wu**\
+39th IEEE International Conference on Distributed Computing Systems (ICDCS 2019)\
+[[paper](https://ieeexplore.ieee.org/document/8885074)][[code](https://github.com/git-disl)]
+
+* _**Experimental Characterizations and Analysis of Deep Learning Frameworks**_\
+**Yanzhao Wu**, Wenqi Cao, Semih Sahin, and Ling Liu\
+2018 IEEE International Conference on Big Data (IEEE BigData 2018)\
+[[paper](https://ieeexplore.ieee.org/document/8621930)][[code](https://github.com/git-disl/GTDLBench)]
+
+* _**Benchmarking Deep Learning Frameworks: Design Considerations, Metrics and Beyond**_\
+Ling Liu, **Yanzhao Wu**, Wenqi Wei, Wenqi Cao, Semih Sahin, and Qi Zhang\
+38th IEEE International Conference on Distributed Computing Systems (ICDCS 2018)\
+[[paper](https://ieeexplore.ieee.org/document/8416388)][[code](https://github.com/git-disl/GTDLBench)]
+
+
+* _**CCAligner: a token based large-gap clone detector**_\
+Pengcheng Wang, Jeffrey Svajlenko, **Yanzhao Wu**, Yun Xu and Chanchal K. Roy\
+40th International Conference on Software Engineering (ICSE 2018)\
+[[paper](https://dl.acm.org/citation.cfm?id=3180179)][[code](https://github.com/PCWcn/CCAligner)]
+
+
+Contact
+======
+* Email: <yanzhaowu@gatech.edu> \| <yanzhaowumail@gmail.com>
+* Phone: +1 (404) 279 2853
+* Office: Klaus Advanced Computing Building, Room 3337
+* Address: 266 Ferst Dr. KACB 3337, Atlanta, GA 30332-0765
