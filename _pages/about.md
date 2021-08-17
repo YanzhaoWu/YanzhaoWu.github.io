@@ -18,6 +18,7 @@ My research interests include:
 
 Publications
 ======
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=ZANfMywAAAAJ&hl=en&oi=ao).
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
@@ -182,13 +183,12 @@ Achievement: [GTDLBench](https://git-disl.github.io/GTDLBench/) - a performance 
 Teaching
 ======
 TA for:
-* CS6220 Big Data Systems and Analytics (Fall 2021 at Georgia Tech)
-* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2021 at Georgia Tech)
-* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2020 at Georgia Tech)
-* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2019 at Georgia Tech)
-* CS6235/CS4220 Embedded Systems and Real-Time Systems (Fall 2018 at Georgia Tech)
-* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2018 at Georgia Tech)
-* CS1001A Computer Programming A (Fall 2015 at USTC)
+* Georgia Institute of Technology
+  * CS6220 Big Data Systems and Analytics (Fall 2021)
+  * CS6675/CS4675 Advanced Internet Computing Systems and Application Development (Spring 2021, Spring 2020, Spring 2019, Spring 2018)
+  * CS6235/CS4220 Embedded Systems and Real-Time Systems (Fall 2018)
+* University of Science and Technology of China
+  * CS1001A Computer Programming A (Fall 2015)
 
 Reviewer
 ======
