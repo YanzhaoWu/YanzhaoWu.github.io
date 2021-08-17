@@ -10,15 +10,13 @@ redirect_from:
 
 I am currently a Ph.D. student in the [School of Computer Science](https://www.scs.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/). I work with [Prof. Ling Liu](https://www.cc.gatech.edu/home/lingliu/) and [Prof. Calton Pu](https://www.cc.gatech.edu/~calton/) at the [Distributed Data Intensive Systems Lab (DiSL)](https://www.cc.gatech.edu/projects/disl/). Before coming to Georgia Tech, I obtained my Bachelor's degree with **honors** in Computer Science and Technology from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
-Research Interest
-======
-
+My research interests include:
 * Systems for Machine Learning
 * Machine Learning for Systems
 * Big Data Systems & Analytics
 * Edge AI Systems
 
-Publication
+Publications
 ======
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
@@ -97,7 +95,7 @@ Ka-Ho Chow, Wenqi Wei, **Yanzhao Wu**, Ling Liu\
 
 * _**Deep Neural Network Ensembles against Deception: Ensemble Diversity, Accuracy and Robustness**_\
 Ling Liu, Wenqi Wei, Ka-Ho Chow, Margaret Loper, Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
-16th IEEE Internatonal Conference on Mobile Adhoc and Sensor Systems (IEEE MASS 2019)\
+16th IEEE International Conference on Mobile Adhoc and Sensor Systems (IEEE MASS 2019)\
 [[paper](https://ieeexplore.ieee.org/document/9077380)][[arXiv](https://arxiv.org/abs/1908.11091)][[code](https://github.com/git-disl/XEnsemble-1.0)]
 
 * _**A Comparative Measurement Study of Deep Learning as a Service Framework**_\
@@ -125,6 +123,105 @@ Ling Liu, **Yanzhao Wu**, Wenqi Wei, Wenqi Cao, Semih Sahin, and Qi Zhang\
 Pengcheng Wang, Jeffrey Svajlenko, **Yanzhao Wu**, Yun Xu and Chanchal K. Roy\
 40th International Conference on Software Engineering (ICSE 2018)\
 [[paper](https://dl.acm.org/citation.cfm?id=3180179)][[code](https://github.com/PCWcn/CCAligner)]
+
+
+Research Experience
+======
+* _**Data-efficient Learning with DNN Ensembles**_\
+Smart Decisions Team, [Facebook](https://about.facebook.com/), May 2021 – Aug 2021\
+Mentor: Dr. Yin Huang\
+Focus: Data Efficiency, Ensemble Learning\
+Goal: Study the data efficiency of DNN ensemble models and design effective subsampling strategies to improve data efficiency for training ML models.
+
+* _**High performance Object Detection on Edge Devices**_\
+[Distributed Data Intensive Systems Lab](https://www.cc.gatech.edu/projects/disl/), [Georgia Tech](https://www.gatech.edu/), Aug 2020 – May 2021\
+Supervisor: Prof. Ling Liu\
+Focus: Deep Learning, Edge AI\
+Goal: Design and implement an efficient framework for supporting various object detection models and achieving high performance on multiple edge devices.
+
+* _**Pipeline Parallelism for Deep Learning Recommendation Models**_\
+AI System SW/HW Co-Design Team, [Facebook Research](https://research.fb.com/), May 2020 – Aug 2020\
+Mentor: Dheevatsa Mudigere\
+Focus: Deep Learning, Pipeline Parallelism\
+Goal: Apply pipeline parallelism into Facebook deep learning recommendation models to accelerate distributed recommendation model training.\
+Achievement: [PipeDLRM](https://github.com/facebookresearch/dlrm/tree/pipedlrm) - an open-sourced software package built on top of DLRM and PyTorch.
+
+* _**High Accuracy and Robust Ensemble of Deep Neural Networks**_\
+[Distributed Data Intensive Systems Lab](https://www.cc.gatech.edu/projects/disl/), [Georgia Tech](https://www.gatech.edu/), Aug 2019 – May 2020\
+Supervisor: Prof. Ling Liu\
+Focus: Deep Learning, Edge AI\
+Goal: Design and implement an ensemble framework to improve deep neural network accuracy and optimize inference robustness on GPUs and edge devices.\
+Achievement: [EnsembleBench](https://github.com/git-disl/EnsembleBench) - a holistic framework for promoting high diversity ensemble learning.
+
+* _**A Performance Study of Deep Learning with the High-performance Storage System**_\
+[Storage Systems Research Group](https://researcher.watson.ibm.com/researcher/view_group.php?id=4203), [IBM Research](https://www.research.ibm.com/), May 2019 - July 2019\
+Mentors: Dr. Daniel Waddington, Dr. Luna Xu\
+Focus: Storage Systems, Deep Learning Frameworks\
+Achievement: Conducting a comprehensive performance analysis of the high-performance storage system with different storage backends, such as persistent memory and SSD, with popular deep learning workloads.
+
+* _**Semi-automatic Hyperparameter Tuning for Training Deep Neural Networks**_\
+[Distributed Data Intensive Systems Lab](https://www.cc.gatech.edu/projects/disl/), [Georgia Tech](https://www.gatech.edu/), Aug 2018 – May 2019\
+Supervisor: Prof. Ling Liu\
+Focus: Deep Learning Training, Performance Optimization\
+Goal: Accelerate deep learning training and improve the training efficiency via semi-automatic hyper-parameter tuning.\
+Achievement: [LRBench](https://github.com/git-disl/LRBench) - a semi-automatic learning rate tuning tool to enhance the deep neural network training efficiency and accuracy.
+
+* _**Accelerating Deep Learning with Direct-to-GPU Storage**_\
+[Storage Systems Research Group](https://researcher.watson.ibm.com/researcher/view_group.php?id=4203), [IBM Research](https://www.research.ibm.com/), May 2018 – Aug 2018\
+Mentors: Amit Warke, Dr. Daniel Waddington\
+Focus: Storage Systems, Deep Learning Frameworks\
+Achievement: Integrating the Direct-to-GPU storage system into Caffe to obtain over 2$\times$ performance improvement by reducing the overhead of data transmission.
+
+* _**Experimental Analysis and Optimization of Deep Learning Frameworks**_\
+[Distributed Data Intensive Systems Lab](https://www.cc.gatech.edu/projects/disl/), [Georgia Tech](https://www.gatech.edu/), Aug 2017 – May 2018\
+Supervisor: Prof. Ling Liu\
+Focus: Deep Learning Systems, Performance Analysis\
+Goal: Analyze the hyper-parameters and basic components of Deep Learning and optimize Deep Learning Frameworks by tuning data-related and hardware-related parameters.
+Achievement: [GTDLBench](https://git-disl.github.io/GTDLBench/) - a performance benchmark of deep learning frameworks to measure and optimize mainstream deep learning frameworks.
+
+Teaching
+======
+TA for:
+* CS6220 Big Data Systems and Analytics (Fall 2021 at Georgia Tech)
+* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2021 at Georgia Tech)
+* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2020 at Georgia Tech)
+* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2019 at Georgia Tech)
+* CS6235/CS4220 Embedded Systems and Real-Time Systems (Fall 2018 at Georgia Tech)
+* CS6675/CS4675 Advanced Internet Computing Systmes and Application Development (Spring 2018 at Georgia Tech)
+* CS1001A Computer Programming A (Fall 2015 at USTC)
+
+Reviewer
+======
+* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021
+* Journal: IEEE TKDE, ACM TOIT
+
+Open-source Projects
+======
+* [DP-Ensemble](https://github.com/git-disl/DP-Ensemble): Leveraging FQ-diversity metrics to identify high diversity ensemble teams with high performance effectively.
+* [PipeDLRM](https://github.com/facebookresearch/dlrm/tree/pipedlrm): Using pipeline parallelism for training deep learning recommendation models.
+* [EnsembleBench](https://github.com/git-disl/EnsembleBench): A set of tools for building good ensemble model teams for machine learning and deep learning models.
+* [LRBench](https://github.com/git-disl/LRBench): A semi-automatic learning rate tuning tool to improve the deep neural network training efficiency and accuracy.
+* [GTDLBench](https://git-disl.github.io/GTDLBench/): A performance benchmark of deep learning frameworks to measure and optimize mainstream deep learning frameworks.
+* [Comanche](https://github.com/IBM/comanche): Accelerating deep learning with Direct-to-GPU storage with a modified Caffe and DeepBench.
+* [CCAligner](https://github.com/PCWcn/CCAligner): A token based code clone detector for detecting large-gap copy-and-paste source codes.
+* [PRISM](http://www.prismmodelchecker.org/): Design and implement the LTS and Game model checker for PRISM, a widely applied model checker for system analysis.
+
+Awards & Scholarship
+======
+* College of Computing Student Travel Award, December 2020
+* Qualified for Men's Singles in 2020 NCTTA South Regional Championships
+* Outstanding Graduate Award (USTC), April 2017
+* Fourth Place for 2016 ISC Student Cluster Competition, June 2016
+* Excellent Student Scholarship (Top 3%, USTC), 2015-2016
+* Leadership Scholarship, 2014-2015
+* The Third Prize for Electromagnetism Paper Competition, June 2014
+
+Non-academic
+======
+* Sports: When I'm not working in the lab, you may find me running or playing table tennis on the court at Georgia Tech.
+  * Running: I finished the half-marathon in the 2015 Hefei International Marathon Competition.
+  * Table Tennis: I am a member of [GTTTA](http://tta.gtorg.gatech.edu/).
+* Literature & music: I love reading novels and listening to music.
 
 
 Contact

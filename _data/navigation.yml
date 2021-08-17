@@ -3,17 +3,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Publication"
-    url: \#publication
+  - title: "Publications"
+    url: \#publications
 
   - title: "Research"
-    url: /research/
+    url: \#research-experience
 
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Software"
-    url: /software/
+    url: \#teaching
 
   - title: "CV"
     url: /files/cv.pdf
