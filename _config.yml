@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanzhao Wu"
 title_separator          : "-"
 name                     : &name "Yanzhao Wu"
-description              : &description "Yanzhao's Homepage"
+description              : &description "Ph.D. student at Georgia Tech"
 url                      : https://yanzhaowu.me # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanzhaowu/homepages"
