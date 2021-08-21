@@ -54,12 +54,12 @@ Semih Sahin, Ling Liu, Wenqi Cao, Qi Zhang, Juhyun Bae, **Yanzhao Wu**\
 
 * _**Adversarial Deception in Deep Learning: Analysis and Mitigation**_\
 Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, **Yanzhao Wu**\
-2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA 2020)\
+2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2020)\
 [[paper](https://ieeexplore.ieee.org/document/9325360)][[code](https://github.com/git-disl/XEnsemble-1.0)]
 
 * _**Adversarial Objectness Gradient Attacks in Real-time Object Detection Systems**_\
 Ka-Ho Chow, Ling Liu, Margaret Loper, Juhyun Bae, Mehmet Emre Gursoy, Stacey Truex, Wenqi Wei, **Yanzhao Wu**\
-2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA 2020)\
+2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2020)\
 [[paper](https://ieeexplore.ieee.org/document/9325397)][[code](https://github.com/git-disl/TOG)][[video](https://youtu.be/acWI5pFNvwg)]
 
 
@@ -199,12 +199,12 @@ Open-source Projects
 ======
 * [DP-Ensemble](https://github.com/git-disl/DP-Ensemble): Leveraging FQ-diversity metrics to identify high diversity ensemble teams with high performance effectively.
 * [PipeDLRM](https://github.com/facebookresearch/dlrm/tree/pipedlrm): Using pipeline parallelism for training deep learning recommendation models.
-* [EnsembleBench](https://github.com/git-disl/EnsembleBench): A set of tools for building good ensemble model teams for machine learning and deep learning models.
+* [EnsembleBench](https://github.com/git-disl/EnsembleBench): A set of tools for building high-quality ensembles for machine learning and deep learning models.
 * [LRBench](https://github.com/git-disl/LRBench): A semi-automatic learning rate tuning tool to improve the deep neural network training efficiency and accuracy.
 * [GTDLBench](https://git-disl.github.io/GTDLBench/): A performance benchmark of deep learning frameworks to measure and optimize mainstream deep learning frameworks.
 * [Comanche](https://github.com/IBM/comanche): Accelerating deep learning with Direct-to-GPU storage with a modified Caffe and DeepBench.
 * [CCAligner](https://github.com/PCWcn/CCAligner): A token based code clone detector for detecting large-gap copy-and-paste source codes.
-* [PRISM](http://www.prismmodelchecker.org/): Design and implement the LTS and Game model checker for PRISM, a widely applied model checker for system analysis.
+* [PRISM](http://www.prismmodelchecker.org/): Building the LTS and Game model checkers for PRISM, a widely applied model checker for system analysis.
 
 Awards & Scholarship
 ======
