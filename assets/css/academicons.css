@@ -269,11 +269,11 @@
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
-.fa-lg {
+/* .fa-lg {
   font-size: 1.33333333em;
   line-height: 0.75em;
   vertical-align: -15%;
-}
+} */
 .fa-2x {
   font-size: 2em;
 }
