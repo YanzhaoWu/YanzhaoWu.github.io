@@ -20,6 +20,10 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
+**Yanzhao Wu** and Ling Liu\
+To appear in 21st IEEE International Conference on Data Mining (ICDM 2021)
+
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)\
@@ -195,15 +199,24 @@ Teaching
   * CS6220 Big Data Systems and Analytics
     * Fall 2019: GTDLBench & LRBench
     * Fall 2020: Emulab
+    * Fall 2021: Google Colab
   * CS6675/CS4675 Advanced Internet Computing Systems and Application Development
     * Spring 2019: Emulab
     * Spring 2020: Emulab
     * Spring 2021: AWS + Google Colab
 
+Talks
+======
+* IEEE/CVF CVPR 2021, Nashville, TN, USA, June 19–25, 2021
+* IEEE CogMI 2020, Atlanta, GA, USA, Dec. 1-3, 2020
+* IEEE BigData 2019, Los Angeles, CA, USA, Dec. 9-12, 2019
+* IEEE BigData 2018, Seattle, WA, USA, Dec. 10-13, 2018
+* Southern Data Science Conference 2018, Atlanta, GA, USA, Apr. 13-14, 2018
+
 Reviewer
 ======
 * Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021
-* Journal: IEEE TKDE, ACM TOIT
+* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks
 
 Open-source Projects
 ======
