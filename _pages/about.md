@@ -16,6 +16,13 @@ My research interests include:
 * Big Data Systems & Analytics
 * Edge AI Systems
 
+I am on the academic job market. Here are my application materials:
+* [Curriculum Vitae](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/EUuRl3FurIBNgy_FErmUj2YB_-lw3-b068ioGsEN8aNGDQ?e=kvhSWa)
+* [Research Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/EQB_lcW2CGtMhT7kZGBHPjkB1-HwKfW3IaP4hto8Jgzcvg?e=mDVahU)
+* [Teaching Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/Eddt_vEXWKVGtRuLdSn83LQBsfaFs6Pdd8yXlFN1SD1jXg?e=tnOtFQ)
+* [Diversity Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/ERy2A7bptRlJl0QkJCQcWN4BPpWD-WSlvCt2ADmOKiHT5A?e=WPW2aa)
+
+
 Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
@@ -23,6 +30,10 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 * _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
 **Yanzhao Wu** and Ling Liu\
 To appear in 21st IEEE International Conference on Data Mining (ICDM 2021)
+
+* _**Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering**_\
+Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
+To appear in ACM Transactions on Information Systems (TOIS)
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
@@ -32,7 +43,7 @@ To appear in 21st IEEE International Conference on Data Mining (ICDM 2021)
 * _**Gradient-Leakage Resilient Federated Learning**_\
 Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyenger\
 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)\
-[[paper](https://arxiv.org/abs/2107.01154)][[arXiv](https://arxiv.org/abs/2107.01154)][[code](https://github.com/git-disl/Fed-CDP)]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9546481)][[arXiv](https://arxiv.org/abs/2107.01154)][[code](https://github.com/git-disl/Fed-CDP)]
 
 * _**Learning TFIDF Enhanced Joint Embedding for Recipe-Image Cross-Modal Retrieval Service**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
