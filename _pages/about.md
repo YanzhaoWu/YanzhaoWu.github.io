@@ -200,7 +200,7 @@ Teaching
 **TA for**:
 * Georgia Institute of Technology
   * CS6220 Big Data Systems and Analytics (Fall 2021)
-  * CS6675/CS4675 Advanced Internet Computing Systems and Application Development (Spring 2018, Spring 2019, Spring 2020, Spring 2021)
+  * CS6675/CS4675 Advanced Internet Computing Systems and Application Development (Spring 2018, Spring 2019, Spring 2020, Spring 2021, Spring 2022)
   * CS6235/CS4220 Embedded Systems and Real-Time Systems (Fall 2018)
 * University of Science and Technology of China
   * CS1001A Computer Programming A (Fall 2015)
@@ -227,7 +227,7 @@ Talks
 Reviewer
 ======
 * Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021
-* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks
+* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security
 
 Open-source Projects
 ======
