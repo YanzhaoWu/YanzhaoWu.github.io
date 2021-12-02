@@ -35,7 +35,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 * _**Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
 ACM Transactions on Information Systems (TOIS)\
-[[paper](https://arxiv.org/abs/2110.11592)][[code](https://github.com/git-disl/SEJE)]
+[[paper](https://dl.acm.org/doi/10.1145/3490519)][[arXiv](https://arxiv.org/abs/2110.11592)][[code](https://github.com/git-disl/SEJE)]
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
