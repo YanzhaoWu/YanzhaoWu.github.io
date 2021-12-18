@@ -220,6 +220,8 @@ Teaching
 
 Talks
 ======
+* IEEE CogMI 2021, Virtual Conference, Dec. 13-15, 2021
+* IEEE ICDM 2021, Auckland, New Zealand, Dec. 7-10, 2021
 * IEEE/CVF CVPR 2021, Nashville, TN, USA, June 19–25, 2021
 * IEEE CogMI 2020, Atlanta, GA, USA, Dec. 1-3, 2020
 * IEEE BigData 2019, Los Angeles, CA, USA, Dec. 9-12, 2019
@@ -228,7 +230,7 @@ Talks
 
 Reviewer
 ======
-* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021
+* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022
 * Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security
 
 Open-source Projects
@@ -244,6 +246,8 @@ Open-source Projects
 
 Awards & Scholarship
 ======
+* IEEE CIC Best Paper Award, December 2021
+* ICDM 2021 Student Attendance Award, December 2021
 * College of Computing Student Travel Award, December 2020
 * Qualified for Men's Singles in 2020 NCTTA South Regional Championships
 * Outstanding Graduate Award (USTC), April 2017
