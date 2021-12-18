@@ -27,6 +27,23 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**Transparent Network Memory Storage for Efficient Container Execution in Big Data Clouds**_\
+Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
+Iyengar\
+2021 IEEE International Conference on Big Data (IEEE BigData 2021)
+
+* _**Parallel Detection for Efficient Video Analytics at the Edge**_\
+**Yanzhao Wu**, Ling Liu, and Ramana Kompella\
+2021 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2021)\
+[[paper](https://arxiv.org/abs/2107.12563)][[code](https://github.com/git-disl/EVA)]
+
+* _**RDMAbox : Optimizing RDMA for Memory Intensive Workload**_\
+Juhyun Bae, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun
+Iyengar\
+2021 International Conference on Collaboration and Internet Computing (IEEE CIC 2021)\
+**Best Paper Award**\
+[[paper](https://arxiv.org/abs/2104.12197)]
+
 * _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
 **Yanzhao Wu** and Ling Liu\
 21st IEEE International Conference on Data Mining (ICDM 2021)\
@@ -66,7 +83,7 @@ Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
 
 * _**Memory Abstraction and Optimization for Distributed Executors**_\
 Semih Sahin, Ling Liu, Wenqi Cao, Qi Zhang, Juhyun Bae, and **Yanzhao Wu**\
-2020 International Conference on Collaborative Computing: Networking, Applications and Worksharing (IEEE CIC 2020)\
+2020 International Conference on Collaboration and Internet Computing (IEEE CIC 2020)\
 [[paper](https://ieeexplore.ieee.org/document/9319014)]
 
 * _**Adversarial Deception in Deep Learning: Analysis and Mitigation**_\
