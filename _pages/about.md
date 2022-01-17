@@ -30,7 +30,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 * _**Transparent Network Memory Storage for Efficient Container Execution in Big Data Clouds**_\
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
-2021 IEEE International Conference on Big Data (IEEE BigData 2021)
+2021 IEEE International Conference on Big Data (IEEE BigData 2021)\
 [[paper](https://ieeexplore.ieee.org/document/9672015)]
 
 * _**Parallel Detection for Efficient Video Analytics at the Edge**_\
