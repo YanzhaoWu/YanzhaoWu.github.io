@@ -31,6 +31,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)
+[[paper](https://ieeexplore.ieee.org/document/9672015)]
 
 * _**Parallel Detection for Efficient Video Analytics at the Edge**_\
 **Yanzhao Wu**, Ling Liu, and Ramana Kompella\
@@ -41,8 +42,8 @@ Iyengar\
 Juhyun Bae, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
 2021 International Conference on Collaboration and Internet Computing (IEEE CIC 2021)\
-**Best Paper Award**\
-[[paper](https://arxiv.org/abs/2104.12197)]
+**<u>Best Paper Award</u>**\
+[[paper](https://arxiv.org/abs/2104.12197)][[code](https://github.com/git-disl/RDMAbox)]
 
 * _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
 **Yanzhao Wu** and Ling Liu\
@@ -248,7 +249,7 @@ Talks
 Reviewer
 ======
 * Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022
-* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security
+* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences
 
 Open-source Projects
 ======
