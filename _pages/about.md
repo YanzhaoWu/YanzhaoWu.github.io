@@ -48,7 +48,7 @@ Iyengar\
 * _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
 **Yanzhao Wu** and Ling Liu\
 21st IEEE International Conference on Data Mining (ICDM 2021)\
-[[paper](https://www.cc.gatech.edu/~wyanzhao3/papers/HQ-Ensemble-ICDM.pdf)][[code](https://github.com/git-disl/HQ-Ensemble)]
+[[paper](https://ieeexplore.ieee.org/document/9679166)][[code](https://github.com/git-disl/HQ-Ensemble)]
 
 * _**Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
@@ -70,7 +70,6 @@ Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
 2021 IEEE Transactions on Services Computing (TSC)\
 [[paper](https://ieeexplore.ieee.org/abstract/document/9495171)][[arXiv](https://arxiv.org/abs/2108.00724)][[code](https://github.com/git-disl/MSJE)]
 
-
 * _**Promoting High Diversity Ensemble Learning with EnsembleBench**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Juhyun Bae, Ka-Ho Chow, and Wenqi Wei\
 2020 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2020)\
@@ -80,7 +79,6 @@ Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
 2020 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2020)\
 [[paper](https://ieeexplore.ieee.org/document/9319387)][[code](https://github.com/git-disl/MSJE)]
-
 
 * _**Memory Abstraction and Optimization for Distributed Executors**_\
 Semih Sahin, Ling Liu, Wenqi Cao, Qi Zhang, Juhyun Bae, and **Yanzhao Wu**\
@@ -97,12 +95,10 @@ Ka-Ho Chow, Ling Liu, Margaret Loper, Juhyun Bae, Mehmet Emre Gursoy, Stacey Tru
 2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2020)\
 [[paper](https://ieeexplore.ieee.org/document/9325397)][[code](https://github.com/git-disl/TOG)][[video](https://youtu.be/acWI5pFNvwg)]
 
-
 * _**Efficient Orchestration of Host and Remote Shared Memory for Memory Intensive Workloads**_\
 Juhyun Bae, Gong Su, Arun Iyengar, **Yanzhao Wu**, and Ling Liu\
 2020 International Symposium on Memory Systems (MEMSYS 2020)\
 [[paper](https://dl.acm.org/doi/10.1145/3422575.3422793)][[arXiv](https://arxiv.org/abs/2008.00902)][[code](https://github.com/git-disl/Valet)][[video](https://youtu.be/8b6ojSrkmiY)][[slides](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3422575.3422793&file=p194-bae.pptx)]
-
 
 * _**Understanding Object Detection Through an Adversarial Lens**_\
 Ka-Ho Chow, Ling Liu, Mehmet Emre Gursoy, Stacey Truex, Wenqi Wei, and **Yanzhao Wu**\
