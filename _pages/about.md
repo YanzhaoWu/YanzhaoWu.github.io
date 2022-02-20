@@ -43,7 +43,7 @@ Juhyun Bae, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
 2021 International Conference on Collaboration and Internet Computing (IEEE CIC 2021)\
 **<u>Best Paper Award</u>**\
-[[paper](https://arxiv.org/abs/2104.12197)][[code](https://github.com/git-disl/RDMAbox)]
+[[paper](https://ieeexplore.ieee.org/document/9707157)][[arXiv](https://arxiv.org/abs/2104.12197)][[code](https://github.com/git-disl/RDMAbox)]
 
 * _**Boosting Deep Ensemble Performance with Hierarchical Pruning**_\
 **Yanzhao Wu** and Ling Liu\
@@ -281,6 +281,5 @@ Non-academic
 Contact
 ======
 * Email: <yanzhaowu@gatech.edu> \| <yanzhaowumail@gmail.com>
-* Phone: +1 (404) 279 2853
 * Office: Klaus Advanced Computing Building, Room 3337
 * Address: 266 Ferst Dr. KACB 3337, Atlanta, GA 30332-0765
