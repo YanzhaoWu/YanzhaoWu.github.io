@@ -231,6 +231,7 @@ Teaching
     * Spring 2019: Emulab
     * Spring 2020: Emulab
     * Spring 2021: AWS + Google Colab
+    * Spring 2022: Emulab + Google Colab
 
 Talks
 ======
@@ -245,10 +246,11 @@ Talks
 Reviewer
 ======
 * Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022
-* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences
+* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
 
 Open-source Projects
 ======
+* [HQ-Ensemble](https://github.com/git-disl/HQ-Ensemble): Efficient ensemble pruning via focal ensemble diversity.
 * [DP-Ensemble](https://github.com/git-disl/DP-Ensemble): Leveraging FQ-diversity metrics to identify high diversity ensemble teams with high performance effectively.
 * [PipeDLRM](https://github.com/facebookresearch/dlrm/tree/pipedlrm): Using pipeline parallelism for training deep learning recommendation models.
 * [EnsembleBench](https://github.com/git-disl/EnsembleBench): A set of tools for building high-quality ensembles for machine learning and deep learning models.
