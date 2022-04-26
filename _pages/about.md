@@ -36,7 +36,7 @@ Iyengar\
 * _**Parallel Detection for Efficient Video Analytics at the Edge**_\
 **Yanzhao Wu**, Ling Liu, and Ramana Kompella\
 2021 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2021)\
-[[paper](https://arxiv.org/abs/2107.12563)][[code](https://github.com/git-disl/EVA)]
+[[paper](https://ieeexplore.ieee.org/document/9750319)][[arXiv](https://arxiv.org/abs/2107.12563)][[code](https://github.com/git-disl/EVA)]
 
 * _**RDMAbox : Optimizing RDMA for Memory Intensive Workload**_\
 Juhyun Bae, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun
@@ -245,11 +245,12 @@ Talks
 
 Reviewer
 ======
-* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022
+* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022
 * Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
 
 Open-source Projects
 ======
+* [EVA](https://github.com/git-disl/EVA): Fast edge video analytics through multi-model multi-device parallelism.
 * [HQ-Ensemble](https://github.com/git-disl/HQ-Ensemble): Efficient ensemble pruning via focal ensemble diversity.
 * [DP-Ensemble](https://github.com/git-disl/DP-Ensemble): Leveraging FQ-diversity metrics to identify high diversity ensemble teams with high performance effectively.
 * [PipeDLRM](https://github.com/facebookresearch/dlrm/tree/pipedlrm): Using pipeline parallelism for training deep learning recommendation models.
