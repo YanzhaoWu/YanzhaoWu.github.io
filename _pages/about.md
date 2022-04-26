@@ -58,7 +58,7 @@ ACM Transactions on Information Systems (TOIS)\
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
 **Yanzhao Wu**, Ling Liu, Zhongwei Xie, Ka-Ho Chow, and Wenqi Wei\
 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)\
-[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.html)][[code](https://github.com/git-disl/DP-Ensemble)]
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.html)][[code](https://github.com/git-disl/DP-Ensemble)][[video](https://youtu.be/jmHTCE3mrR4)]
 
 * _**Gradient-Leakage Resilient Federated Learning**_\
 Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyenger\
