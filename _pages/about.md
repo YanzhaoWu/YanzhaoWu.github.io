@@ -31,7 +31,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
 2021 IEEE International Conference on Big Data (IEEE BigData 2021)\
-[[paper](https://ieeexplore.ieee.org/document/9672015)]
+[[paper](https://ieeexplore.ieee.org/document/9672015)][[code](https://github.com/git-disl/CNetMem)]
 
 * _**Parallel Detection for Efficient Video Analytics at the Edge**_\
 **Yanzhao Wu**, Ling Liu, and Ramana Kompella\
