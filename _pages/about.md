@@ -16,13 +16,6 @@ My research interests include:
 * Big Data Systems & Analytics
 * Edge AI Systems
 
-I am on the academic job market. Here are my application materials:
-* [Curriculum Vitae](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/EUuRl3FurIBNgy_FErmUj2YB_-lw3-b068ioGsEN8aNGDQ?e=kvhSWa)
-* [Research Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/EQB_lcW2CGtMhT7kZGBHPjkB1-HwKfW3IaP4hto8Jgzcvg?e=mDVahU)
-* [Teaching Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/Eddt_vEXWKVGtRuLdSn83LQBsfaFs6Pdd8yXlFN1SD1jXg?e=tnOtFQ)
-* [Diversity Statement](https://gtvault-my.sharepoint.com/:b:/g/personal/wyanzhao3_gatech_edu/ERy2A7bptRlJl0QkJCQcWN4BPpWD-WSlvCt2ADmOKiHT5A?e=WPW2aa)
-
-
 Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
