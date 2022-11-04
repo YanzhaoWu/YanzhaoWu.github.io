@@ -16,6 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    <p class="author__bio">{{author.name_plus}}</p>
     {% if author.title %}<p class="author__bio">
       {{ author.title }}
       {% if author.employer %}<br>{{ author.employer }}{% endif %}

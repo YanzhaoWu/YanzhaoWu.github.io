@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanzhao Wu"
 title_separator          : "-"
 name                     : &name "Yanzhao Wu"
-description              : &description "Ph.D. student at Georgia Tech"
+description              : &description "Ph.D. in Computer Science"
 url                      : https://yanzhaowu.me # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanzhaowu/homepages"
@@ -79,9 +79,10 @@ analytics:
 author:
   name             : "Yanzhao Wu"
   avatar           : "profile.jpg"
-  title            : "Ph.D. Student"
-  employer         : "School of Computer Science<br>College of Computing<br>Georgia Institute of Technology"
-  location         : "Atlanta, GA"
+  name_plus        : "吴彦钊<br>(YAN-jow WOO)"
+  title            : "Research Scientist"
+  employer         : "Meta Platforms"
+  location         : "Menlo Park, CA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZANfMywAAAAJ&hl=en&oi=ao"
   email            : "yanzhaowu@gatech.edu"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the [School of Computer Science](https://www.scs.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/). I work with [Prof. Ling Liu](https://www.cc.gatech.edu/home/lingliu/) and [Prof. Calton Pu](https://www.cc.gatech.edu/~calton/) at the [Distributed Data Intensive Systems Lab (DiSL)](https://www.cc.gatech.edu/projects/disl/). Before coming to Georgia Tech, I obtained my Bachelor's degree with **honors** in Computer Science and Technology from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
+I am currently a research scientist at Meta. I received my Ph.D. in Computer Science from [Georgia Tech](https://www.gatech.edu/) in Spring 2022. I was fortunate to work with [Prof. Ling Liu](https://www.cc.gatech.edu/home/lingliu/) and [Prof. Calton Pu](https://www.cc.gatech.edu/~calton/) at the [Distributed Data Intensive Systems Lab (DiSL)](https://www.cc.gatech.edu/projects/disl/). Before coming to Georgia Tech, I obtained my Bachelor's degree in Computer Science and Technology from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
 My research interests include:
 * Systems for Machine Learning
