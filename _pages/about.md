@@ -20,6 +20,11 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**Selecting and Composing Learning Rate Policies for Deep Neural Networks**_\
+**Yanzhao Wu**, Ling Liu\
+Accepted by ACM Transactions on Intelligent Systems and Technology\
+[[paper](https://dl.acm.org/doi/10.1145/3570508)][[arXiv](https://arxiv.org/abs/2210.12936)][[code](https://github.com/git-disl/LRBench)]
+
 * _**Transparent Network Memory Storage for Efficient Container Execution in Big Data Clouds**_\
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
