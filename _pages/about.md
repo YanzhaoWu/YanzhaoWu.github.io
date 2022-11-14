@@ -273,7 +273,7 @@ Awards & Scholarship
 
 Non-academic
 ======
-* Sports: When I'm not working in the lab, you may find me running or playing table tennis on the court at Georgia Tech.
+* Sports: When I'm not working in the lab, you may find me running on the court or playing table tennis.
 * Literature & music: I love reading novels and listening to music.
 
 
