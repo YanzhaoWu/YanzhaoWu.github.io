@@ -274,13 +274,9 @@ Awards & Scholarship
 Non-academic
 ======
 * Sports: When I'm not working in the lab, you may find me running or playing table tennis on the court at Georgia Tech.
-  * Running: I finished the half-marathon in the 2015 Hefei International Marathon Competition.
-  * Table Tennis: I am a member of [GTTTA](http://tta.gtorg.gatech.edu/).
 * Literature & music: I love reading novels and listening to music.
 
 
 Contact
 ======
-* Email: <yanzhaowu@gatech.edu> \| <yanzhaowumail@gmail.com>
-* Office: Klaus Advanced Computing Building, Room 3337
-* Address: 266 Ferst Dr. KACB 3337, Atlanta, GA 30332-0765
+* Email: <yanzhaowumail@gmail.com>
