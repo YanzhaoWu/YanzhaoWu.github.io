@@ -16,6 +16,10 @@ My research interests include:
 * Big Data Systems & Analytics
 * Edge AI Systems
 
+
+<span style="color:red">I will join Florida International University in Spring 2023 as a tenure-track assistant professor. Several fully-funded Computer Science PhD positions are available. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
+
+
 Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
