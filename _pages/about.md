@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at Meta. I received my Ph.D. in Computer Science from [Georgia Tech](https://www.gatech.edu/) in Spring 2022. I was fortunate to work with [Prof. Ling Liu](https://www.cc.gatech.edu/home/lingliu/) and [Prof. Calton Pu](https://www.cc.gatech.edu/~calton/) at the [Distributed Data Intensive Systems Lab (DiSL)](https://www.cc.gatech.edu/projects/disl/). Before coming to Georgia Tech, I obtained my Bachelor's degree in Computer Science and Technology from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
-
-My research interests include:
-* Systems for Machine Learning
-* Machine Learning for Systems
-* Big Data Systems & Analytics
-* Edge AI Systems
+I am an assistant professor in the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I obtained the Bachelor’s degree from University of Science and Technology of China (USTC) in 2017 and then received my PhD in Computer Science from Georgia Institute of Technology in 2022. My research interests are primarily centered on the intersection of machine learning and computing systems, including machine learning algorithm and system optimizations, deep learning, edge AI, big data analytics and their real-world applications.
 
 
-<span style="color:red">I will join Florida International University in Spring 2023 as a tenure-track assistant professor. Several fully-funded Computer Science PhD positions are available. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
+<span style="color:red">Several fully-funded Computer Science PhD positions are available. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
 
 
 Publications
@@ -283,4 +277,4 @@ Non-academic
 
 Contact
 ======
-* Email: <yanzhaowumail@gmail.com>
+* Email: <yawu@cis.fiu.edu> \| <yanzhaowumail@gmail.com>
