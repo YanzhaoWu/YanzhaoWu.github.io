@@ -277,4 +277,4 @@ Non-academic
 
 Contact
 ======
-* Email: <yawu@cis.fiu.edu> \| <yanzhaowumail@gmail.com>
+* Email: <yawu@cs.fiu.edu> \| <yanzhaowumail@gmail.com>
