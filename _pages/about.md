@@ -209,6 +209,9 @@ Achievement: [GTDLBench](https://git-disl.github.io/GTDLBench/) - a performance 
 
 Teaching
 ======
+* Florida International University
+  * Spring 2023: CAP4630/CAP5602: Artificial Intelligence (Intro to AI)
+
 **TA for**:
 * Georgia Institute of Technology
   * CS6220 Big Data Systems and Analytics (Fall 2021)
@@ -239,10 +242,11 @@ Talks
 * IEEE BigData 2018, Seattle, WA, USA, Dec. 10-13, 2018
 * Southern Data Science Conference 2018, Atlanta, GA, USA, Apr. 13-14, 2018
 
-Reviewer
+Professional Activities
 ======
-* Conference: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022
-* Journal: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
+* Program Committee: AAAI 2023, ICDCS 2023
+* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023
+* Journal Reviewer: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
 
 Open-source Projects
 ======
@@ -277,4 +281,4 @@ Non-academic
 
 Contact
 ======
-* Email: <yawu@cs.fiu.edu> \| <yanzhaowumail@gmail.com>
+* Email: <yawu@fiu.edu> \| <yanzhaowumail@gmail.com>
