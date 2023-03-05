@@ -18,6 +18,10 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**STDLens: Securing Federated Learning Against Model Hijacking Attacks**_\
+Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
+Accepted by 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)\
+
 * _**Selecting and Composing Learning Rate Policies for Deep Neural Networks**_\
 **Yanzhao Wu**, Ling Liu\
 ACM Transactions on Intelligent Systems and Technology\
