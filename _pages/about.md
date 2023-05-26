@@ -18,6 +18,11 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**Securing Distributed SGD against Gradient Leakage Threats**_\
+Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
+IEEE Transactions on Parallel and Distributed Systems\
+[[paper](https://ieeexplore.ieee.org/abstract/document/10119168)][[arXiv](https://arxiv.org/abs/2305.06473)][[code](https://github.com/git-disl/Fed-alphaCDP)]
+
 * _**STDLens: Securing Federated Learning Against Model Hijacking Attacks**_\
 Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
 Accepted by 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
@@ -248,8 +253,8 @@ Talks
 
 Professional Activities
 ======
-* Program Committee: AAAI 2023, ICDCS 2023
-* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023
+* Program Committee: AAAI 2023, ICDCS 2023, IJCAI 2023, IEEE ISI 2023
+* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023
 * Journal Reviewer: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
 
 Open-source Projects
