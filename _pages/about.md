@@ -18,6 +18,14 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
 
+* _**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**_\
+**Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
+Accepted by 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+
+* _**Model Cloaking against Gradient Leakage**_\
+Wenqi Wei, Ka-Ho Chow, Fatih Ilhan, **Yanzhao Wu**, and Ling Liu\
+Accepted by 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+
 * _**Securing Distributed SGD against Gradient Leakage Threats**_\
 Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
 IEEE Transactions on Parallel and Distributed Systems\
@@ -25,7 +33,8 @@ IEEE Transactions on Parallel and Distributed Systems\
 
 * _**STDLens: Securing Federated Learning Against Model Hijacking Attacks**_\
 Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
-Accepted by 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
+2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)\
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chow_STDLens_Model_Hijacking-Resilient_Federated_Learning_for_Object_Detection_CVPR_2023_paper.html)][[arXiv](https://arxiv.org/abs/2303.11511)][[code](https://github.com/git-disl/STDLens)]
 
 * _**Selecting and Composing Learning Rate Policies for Deep Neural Networks**_\
 **Yanzhao Wu**, Ling Liu\
