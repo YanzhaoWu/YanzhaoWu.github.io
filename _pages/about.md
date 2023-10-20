@@ -24,7 +24,7 @@ ACM Transactions on Intelligent Systems and Technology
 
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
 Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
-2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
+2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)
 
 * _**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
@@ -46,7 +46,7 @@ Sanjana Vijay Ganesh, **Yanzhao Wu**, Gaowen Liu, Ramana Kompella, and Ling Liu\
 [[TechReport](https://arxiv.org/abs/2309.02666)][[code](https://github.com/git-disl/EMO)]
 
 * _**Invisible Watermarking for Audio Generation Diffusion Models**_\
-Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, and **Yanzhao Wu**\
+Xirong Cao, Xiang Li, Divyesh Jadav, **Yanzhao Wu**, Zhehui Chen, Chen Zeng, and Wenqi Wei\
 2023 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023)\
 [[arXiv](https://arxiv.org/abs/2309.13166)][[code](https://github.com/mikiyaxi/watermark-audio-diffusion)]
 
