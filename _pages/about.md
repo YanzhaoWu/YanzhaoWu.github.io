@@ -16,15 +16,39 @@ I am an assistant professor in the Knight Foundation School of Computing and Inf
 
 Publications
 ======
-You can also find my articles on [Google Scholar]({{site.author.googlescholar}}).
+You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
+
+* _**Hierarchical Pruning of Deep Ensembles with Focal Diversity**_\
+**Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
+ACM Transactions on Intelligent Systems and Technology
+
+* _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
+Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
+2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
 
 * _**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
-Accepted by 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)\
+[[arXiv](https://arxiv.org/abs/2310.02237)][[code](https://github.com/git-disl/HeteRobust)]
 
 * _**Model Cloaking against Gradient Leakage**_\
 Wenqi Wei, Ka-Ho Chow, Fatih Ilhan, **Yanzhao Wu**, and Ling Liu\
-Accepted by 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+
+* _**Rethinking Learning Rate Tuning in the Era of Large Language Models**_\
+Hongpeng Jin*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, and **Yanzhao Wu**\
+2023 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2023)\
+[[arXiv](https://arxiv.org/abs/2309.08859)][[code](https://github.com/mlsysx/LRBenchPlusPlus)]
+
+* _**Amplifying Object Tracking Performance on Edge Devices**_\
+Sanjana Vijay Ganesh, **Yanzhao Wu**, Gaowen Liu, Ramana Kompella, and Ling Liu\
+2023 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2023)\
+[[TechReport](https://arxiv.org/abs/2309.02666)][[code](https://github.com/git-disl/EMO)]
+
+* _**Invisible Watermarking for Audio Generation Diffusion Models**_\
+Wenqi Wei, Ling Liu, Margaret Loper, Ka-Ho Chow, Mehmet Emre Gursoy, Stacey Truex, and **Yanzhao Wu**\
+2023 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023)\
+[[arXiv](https://arxiv.org/abs/2309.13166)][[code](https://github.com/mikiyaxi/watermark-audio-diffusion)]
 
 * _**Securing Distributed SGD against Gradient Leakage Threats**_\
 Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
@@ -249,6 +273,11 @@ Teaching
     * Spring 2020: Emulab
     * Spring 2021: AWS + Google Colab
     * Spring 2022: Emulab + Google Colab
+
+Students
+======
+* [Hongpeng Jin](https://scholar.google.com/citations?user=Kkmx5XwAAAAJ&hl=en) (PhD Student, Fall 2023 - Present)
+* [Badhan Chandra Das](https://sites.google.com/view/badhan-das) (PhD Student, Co-advised with Prof. M. Hadi Amini, Spring 2023 - Present)
 
 Talks
 ======
