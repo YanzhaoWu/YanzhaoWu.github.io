@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I obtained the Bachelor’s degree from University of Science and Technology of China (USTC) in 2017 and then received my PhD in Computer Science from Georgia Institute of Technology in 2022. My research interests are primarily centered on the intersection of machine learning and computing systems, including machine learning algorithm and system optimizations, deep learning, edge AI, big data analytics and their real-world applications.
+I am an assistant professor in the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I obtained the Bachelor’s degree from University of Science and Technology of China (USTC) in 2017 and then received my PhD in Computer Science from Georgia Institute of Technology in 2022. My research interests are primarily centered on the intersection of machine learning and computing systems, including machine learning algorithm and system optimizations, deep learning, large language models (LLMs), edge AI, big data analytics and their real-world applications.
 
 
 <span style="color:red">Several fully-funded Computer Science PhD positions are available. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
