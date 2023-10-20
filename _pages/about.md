@@ -52,7 +52,7 @@ Xirong Cao, Xiang Li, Divyesh Jadav, **Yanzhao Wu**, Zhehui Chen, Chen Zeng, and
 
 * _**Securing Distributed SGD against Gradient Leakage Threats**_\
 Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
-IEEE Transactions on Parallel and Distributed Systems\
+2023 IEEE Transactions on Parallel and Distributed Systems\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10119168)][[arXiv](https://arxiv.org/abs/2305.06473)][[code](https://github.com/git-disl/Fed-alphaCDP)]
 
 * _**STDLens: Securing Federated Learning Against Model Hijacking Attacks**_\
@@ -62,8 +62,14 @@ Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
 
 * _**Selecting and Composing Learning Rate Policies for Deep Neural Networks**_\
 **Yanzhao Wu**, Ling Liu\
-ACM Transactions on Intelligent Systems and Technology\
+2022 ACM Transactions on Intelligent Systems and Technology\
 [[paper](https://dl.acm.org/doi/10.1145/3570508)][[arXiv](https://arxiv.org/abs/2210.12936)][[code](https://github.com/git-disl/LRBench)]
+
+* _**Towards Deep Learning System and Algorithm Co-design**_\
+**Yanzhao Wu**\
+2022 Georgia Institute of Technology\
+[[PhD Dissertation](https://hdl.handle.net/1853/72434)]
+
 
 * _**Transparent Network Memory Storage for Efficient Container Execution in Big Data Clouds**_\
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
@@ -90,7 +96,7 @@ Iyengar\
 
 * _**Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
-ACM Transactions on Information Systems (TOIS)\
+2021 ACM Transactions on Information Systems (TOIS)\
 [[paper](https://dl.acm.org/doi/10.1145/3490519)][[arXiv](https://arxiv.org/abs/2110.11592)][[code](https://github.com/git-disl/SEJE)]
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
