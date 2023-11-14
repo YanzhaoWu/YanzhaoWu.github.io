@@ -18,13 +18,19 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Adaptive Deep Neural Network Inference Optimization with EENet**_\
+Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**, Myungjin Lee, Ramana Kompella, Hugo Latapie, Gaowen Liu, and Ling Liu\
+2024 IEEE/CVF Winter Conference on Applications of Computer Vision 2024 (WACV 2024)\
+[[code](https://github.com/git-disl/EENet)]
+
 * _**Hierarchical Pruning of Deep Ensembles with Focal Diversity**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
 ACM Transactions on Intelligent Systems and Technology
 
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
 Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
-2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)
+2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
+[[arXiv](https://arxiv.org/abs/2311.06643)][[code](https://github.com/mlsysx/MedPFL)]
 
 * _**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
@@ -258,6 +264,7 @@ Achievement: [GTDLBench](https://git-disl.github.io/GTDLBench/) - a performance 
 Teaching
 ======
 * Florida International University
+  * Fall 2023: CAP5602: Introduction to Artificial Intelligence
   * Spring 2023: CAP4630/CAP5602: Artificial Intelligence (Intro to AI)
 
 **TA for**:
@@ -316,6 +323,7 @@ Open-source Projects
 
 Awards & Scholarship
 ======
+* FIU STEM Transformation Institute Faculty Fellow, 2023-2024
 * IEEE CIC Best Paper Award, December 2021
 * ICDM 2021 Student Attendance Award, December 2021
 * College of Computing Student Travel Award, December 2020
