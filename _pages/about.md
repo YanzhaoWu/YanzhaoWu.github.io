@@ -25,7 +25,8 @@ Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**
 
 * _**Hierarchical Pruning of Deep Ensembles with Focal Diversity**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
-ACM Transactions on Intelligent Systems and Technology
+ACM Transactions on Intelligent Systems and Technology\
+[[paper](https://dl.acm.org/doi/10.1145/3633286)][[arXiv](https://arxiv.org/abs/2311.10293)][[code](https://github.com/git-disl/HQ-Ensemble)]
 
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
 Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
@@ -39,7 +40,8 @@ Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
 
 * _**Model Cloaking against Gradient Leakage**_\
 Wenqi Wei, Ka-Ho Chow, Fatih Ilhan, **Yanzhao Wu**, and Ling Liu\
-23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)
+23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)\
+[[code](https://github.com/git-disl/ModelCloak)]
 
 * _**Rethinking Learning Rate Tuning in the Era of Large Language Models**_\
 Hongpeng Jin*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, and **Yanzhao Wu**\
@@ -310,6 +312,7 @@ Professional Activities
 
 Open-source Projects
 ======
+* [HeteRobust](https://github.com/git-disl/HeteRobust): Exploring model learning heterogeneity for boosting ensemble robustness.
 * [EVA](https://github.com/git-disl/EVA): Fast edge video analytics through multi-model multi-device parallelism.
 * [HQ-Ensemble](https://github.com/git-disl/HQ-Ensemble): Efficient ensemble pruning via focal ensemble diversity.
 * [DP-Ensemble](https://github.com/git-disl/DP-Ensemble): Leveraging FQ-diversity metrics to identify high diversity ensemble teams with high performance effectively.
