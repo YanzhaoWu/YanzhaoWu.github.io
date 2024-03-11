@@ -18,10 +18,15 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**ZipZap: Efficient Training of Language Models for Ethereum Fraud Detection**_\
+Sihao Hu, Tiansheng Huang, Ka-Ho Chow, Wenqi Wei, **Yanzhao Wu**, Ling Liu\
+ACM Web Conference 2024 (TheWebConf 2024)\
+[[code](https://github.com/git-disl/ZipZap)]
+
 * _**Adaptive Deep Neural Network Inference Optimization with EENet**_\
 Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**, Myungjin Lee, Ramana Kompella, Hugo Latapie, Gaowen Liu, and Ling Liu\
 2024 IEEE/CVF Winter Conference on Applications of Computer Vision 2024 (WACV 2024)\
-[[code](https://github.com/git-disl/EENet)]
+[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Ilhan_Adaptive_Deep_Neural_Network_Inference_Optimization_With_EENet_WACV_2024_paper.html)][[arXiv](https://arxiv.org/abs/2301.07099)][[code](https://github.com/git-disl/EENet)]
 
 * _**Hierarchical Pruning of Deep Ensembles with Focal Diversity**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
@@ -31,32 +36,32 @@ ACM Transactions on Intelligent Systems and Technology\
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
 Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
 2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
-[[arXiv](https://arxiv.org/abs/2311.06643)][[code](https://github.com/mlsysx/MedPFL)]
+[[paper](https://ieeexplore.ieee.org/document/10385829)][[arXiv](https://arxiv.org/abs/2311.06643)][[code](https://github.com/mlsysx/MedPFL)]
 
 * _**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**_\
 **Yanzhao Wu**, Ka-Ho Chow, Wenqi Wei, and Ling Liu\
 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)\
-[[arXiv](https://arxiv.org/abs/2310.02237)][[code](https://github.com/git-disl/HeteRobust)]
+[[paper](https://ieeexplore.ieee.org/document/10415799)][[arXiv](https://arxiv.org/abs/2310.02237)][[code](https://github.com/git-disl/HeteRobust)]
 
 * _**Model Cloaking against Gradient Leakage**_\
 Wenqi Wei, Ka-Ho Chow, Fatih Ilhan, **Yanzhao Wu**, and Ling Liu\
 23rd IEEE International Conference on Data Mining (IEEE ICDM 2023)\
-[[code](https://github.com/git-disl/ModelCloak)]
+[[paper](https://ieeexplore.ieee.org/document/10415670)][[code](https://github.com/git-disl/ModelCloak)]
 
 * _**Rethinking Learning Rate Tuning in the Era of Large Language Models**_\
 Hongpeng Jin*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, and **Yanzhao Wu**\
 2023 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2023)\
-[[arXiv](https://arxiv.org/abs/2309.08859)][[code](https://github.com/mlsysx/LRBenchPlusPlus)]
+[[paper](https://ieeexplore.ieee.org/document/10431584)][[arXiv](https://arxiv.org/abs/2309.08859)][[code](https://github.com/mlsysx/LRBenchPlusPlus)]
 
 * _**Amplifying Object Tracking Performance on Edge Devices**_\
 Sanjana Vijay Ganesh, **Yanzhao Wu**, Gaowen Liu, Ramana Kompella, and Ling Liu\
 2023 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2023)\
-[[TechReport](https://arxiv.org/abs/2309.02666)][[code](https://github.com/git-disl/EMO)]
+[[paper](https://ieeexplore.ieee.org/document/10431546)][[TechReport](https://arxiv.org/abs/2309.02666)][[code](https://github.com/git-disl/EMO)]
 
 * _**Invisible Watermarking for Audio Generation Diffusion Models**_\
 Xirong Cao, Xiang Li, Divyesh Jadav, **Yanzhao Wu**, Zhehui Chen, Chen Zeng, and Wenqi Wei\
 2023 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023)\
-[[arXiv](https://arxiv.org/abs/2309.13166)][[code](https://github.com/mikiyaxi/watermark-audio-diffusion)]
+[[paper](https://ieeexplore.ieee.org/document/10431635)][[arXiv](https://arxiv.org/abs/2309.13166)][[code](https://github.com/mikiyaxi/watermark-audio-diffusion)]
 
 * _**Securing Distributed SGD against Gradient Leakage Threats**_\
 Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
