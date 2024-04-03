@@ -21,7 +21,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 * _**ZipZap: Efficient Training of Language Models for Ethereum Fraud Detection**_\
 Sihao Hu, Tiansheng Huang, Ka-Ho Chow, Wenqi Wei, **Yanzhao Wu**, Ling Liu\
 ACM Web Conference 2024 (TheWebConf 2024)\
-[[code](https://github.com/git-disl/ZipZap)]
+[[code](https://github.com/git-disl/ZipZap)][[video](https://youtu.be/XlFGUCcTBH0)]
 
 * _**Adaptive Deep Neural Network Inference Optimization with EENet**_\
 Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**, Myungjin Lee, Ramana Kompella, Hugo Latapie, Gaowen Liu, and Ling Liu\
@@ -271,8 +271,10 @@ Achievement: [GTDLBench](https://git-disl.github.io/GTDLBench/) - a performance 
 Teaching
 ======
 * Florida International University
-  * Fall 2023: CAP5602: Introduction to Artificial Intelligence
   * Spring 2023: CAP4630/CAP5602: Artificial Intelligence (Intro to AI)
+  * Fall 2023: CAP5602: Introduction to Artificial Intelligence
+  * Spring 2024: CAP4630: Artificial Intelligence
+
 
 **TA for**:
 * Georgia Institute of Technology
@@ -301,6 +303,7 @@ Students
 
 Talks
 ======
+* IEEE CogMI 2023, Atlanta, GA, USA, Nov. 1-3, 2023
 * IEEE CogMI 2021, Virtual Conference, Dec. 13-15, 2021
 * IEEE ICDM 2021, Auckland, New Zealand, Dec. 7-10, 2021
 * IEEE/CVF CVPR 2021, Nashville, TN, USA, June 19–25, 2021
@@ -311,9 +314,10 @@ Talks
 
 Professional Activities
 ======
-* Program Committee: AAAI 2023, ICDCS 2023, IJCAI 2023, IEEE ISI 2023
-* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023
-* Journal Reviewer: IEEE TKDE, ACM TOIT, JISA, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems
+* Program Committee: AAAI 2023, ICDCS 2023, IJCAI 2023, IEEE ISI 2023, AAAI 2024, SDM 2024, CCGRID 2024
+* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023, WACV 2024, WWW 2024, CVPR 2024
+* Journal Reviewer: IEEE TKDE, IEEE TPAMI, IEEE TIFS, IEEE TSC, ACM TOIT, Journal of Information Security and Applications, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems, The Journal of Supercomputing, Neural Networks, Frontiers of Computer Science, Image and Vision Computing, e-Prime, Expert Systems with Applications, Future Generation Computer Systems, Journal of Network and Computer Applications, Image and Vision Computing, Computer Vision and Image Understanding, SoftwareX, Computers and Electrical Engineering, Journal of Industrial Information Integration, Artificial Intelligence in Medicine, Neurocomputing
+* NSF Panelist
 
 Open-source Projects
 ======
