@@ -33,6 +33,11 @@ Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**
 ACM Transactions on Intelligent Systems and Technology\
 [[paper](https://dl.acm.org/doi/10.1145/3633286)][[arXiv](https://arxiv.org/abs/2311.10293)][[code](https://github.com/git-disl/HQ-Ensemble)]
 
+* _**Demystifying Data Poisoning Attacks in Distributed Learning as a Service**_\
+Wenqi Wei, Ka-Ho Chow, **Yanzhao Wu**, Ling Liu\
+IEEE Transactions on Services Computing\
+[[paper](https://ieeexplore.ieee.org/abstract/document/10354520)]
+
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
 Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
 2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
