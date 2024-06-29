@@ -18,10 +18,19 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
-* _**ZipZap: Efficient Training of Language Models for Ethereum Fraud Detection**_\
+* _**On the Efficiency of Privacy Attacks in Federated Learning**_\
+Nawrin Tabassum*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
+2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) Workshops - FedVision\
+[[paper](https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Tabassum_On_the_Efficiency_of_Privacy_Attacks_in_Federated_Learning_CVPRW_2024_paper.html)][[arXiv](https://arxiv.org/abs/2404.09430)][[code](https://github.com/mlsysx/EPAFL)]
+
+* _**Backdoor Attacks Against Low-Earth Orbit Satellite Fingerprinting**_\
+Tianya Zhao, Ningning Wang, **Yanzhao Wu**, Wenbin Zhang and Xuyu Wang\
+2024 IEEE International Conference on Computer Communications (INFOCOM 2024) Workshops - DeepWireless
+
+* _**ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain**_\
 Sihao Hu, Tiansheng Huang, Ka-Ho Chow, Wenqi Wei, **Yanzhao Wu**, Ling Liu\
 ACM Web Conference 2024 (TheWebConf 2024)\
-[[code](https://github.com/git-disl/ZipZap)][[video](https://youtu.be/XlFGUCcTBH0)]
+[[paper](https://dl.acm.org/doi/10.1145/3589334.3645352)][[code](https://github.com/git-disl/ZipZap)][[video](https://youtu.be/XlFGUCcTBH0)]
 
 * _**Adaptive Deep Neural Network Inference Optimization with EENet**_\
 Fatih Ilhan, Ka-Ho Chow, Tiansheng Huang, Selim Tekin, Wenqi Wei, **Yanzhao Wu**, Myungjin Lee, Ramana Kompella, Hugo Latapie, Gaowen Liu, and Ling Liu\
