@@ -82,7 +82,7 @@ Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
 2023 IEEE Transactions on Parallel and Distributed Systems\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10119168)][[arXiv](https://arxiv.org/abs/2305.06473)][[code](https://github.com/git-disl/Fed-alphaCDP)]
 
-* _**STDLens: Securing Federated Learning Against Model Hijacking Attacks**_\
+* _**STDLens: Model Hijacking-Resilient Federated Learning for Object Detection**_\
 Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)\
 [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chow_STDLens_Model_Hijacking-Resilient_Federated_Learning_for_Object_Detection_CVPR_2023_paper.html)][[arXiv](https://arxiv.org/abs/2303.11511)][[code](https://github.com/git-disl/STDLens)]
