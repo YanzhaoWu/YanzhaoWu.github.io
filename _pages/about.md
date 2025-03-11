@@ -18,6 +18,27 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Security and Privacy Challenges of Large Language Models: A Survey**_\
+Badhan Chandra Das*, M. Hadi Amini, **Yanzhao Wu**\
+ACM Computing Surveys\
+[[paper](https://dl.acm.org/doi/10.1145/3712001)][[arXiv](https://arxiv.org/abs/2402.00888)]
+
+* _**Effective Diversity Optimizations for High Accuracy Deep Ensembles**_\
+Hongpeng Jin*, Maryam Akhavan Aghdam*, Sai Nath Chowdary Medikonduru*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
+2024 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)\
+[[paper](https://ieeexplore.ieee.org/abstract/document/10835519)]
+
+* _**Boosting Imperceptibility of Stable Diffusion-based Adversarial Examples Generation with Momentum**_\
+Xirong Nashrah Haque, Xiang Li, Zhehui Chen, **Yanzhao Wu**, Lei Yu, Arun Iyengar, Wenqi Wei\
+2024 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024)\
+[[paper](https://ieeexplore.ieee.org/document/10835489)][[arXiv](https://arxiv.org/abs/2410.13122)][[code](https://github.com/nashrahhaque/SD-MIAE)]
+
+* _**Individual Fairness with Group Awareness Under Uncertainty**_\
+Zichong Wang, Jocelyn Dzuong, Xiaoyong Yuan, Zhong Chen, **Yanzhao Wu**, Xin Yao, and Wenbin Zhang\
+2024 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024)\
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_6)]
+
+
 * _**On the Efficiency of Privacy Attacks in Federated Learning**_\
 Nawrin Tabassum*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) Workshops - FedVision\
@@ -288,6 +309,8 @@ Teaching
   * Spring 2023: CAP4630/CAP5602: Artificial Intelligence (Intro to AI)
   * Fall 2023: CAP5602: Introduction to Artificial Intelligence
   * Spring 2024: CAP4630: Artificial Intelligence
+  * Fall 2024: CAP6619: Advanced Topics in Machine Learning
+  * Spring 2025: CAP4630: Artificial Intelligence
 
 
 **TA for**:
@@ -312,12 +335,14 @@ Teaching
 
 Students
 ======
-* [Hongpeng Jin](https://scholar.google.com/citations?user=Kkmx5XwAAAAJ&hl=en) (PhD Student, Fall 2023 - Present)
 * [Badhan Chandra Das](https://sites.google.com/view/badhan-das) (PhD Student, Co-advised with Prof. M. Hadi Amini, Spring 2023 - Present)
+* [Hongpeng Jin](https://scholar.google.com/citations?user=Kkmx5XwAAAAJ&hl=en) (PhD Student, Fall 2023 - Present)
 * [Maryam Akhavan Aghdam](https://www.linkedin.com/in/maryam-akhavan-aghdam/) (PhD Student, Summer 2024 - Present)
 
 Talks
 ======
+* IEEE CogMI 2024, Washington D.C., USA, Oct. 28-30, 2024
+* IEEE/CVF CVPR Workshops 2021, Seattle, WA, USA, June 17, 2024
 * IEEE CogMI 2023, Atlanta, GA, USA, Nov. 1-3, 2023
 * IEEE CogMI 2021, Virtual Conference, Dec. 13-15, 2021
 * IEEE ICDM 2021, Auckland, New Zealand, Dec. 7-10, 2021
@@ -329,6 +354,7 @@ Talks
 
 Professional Activities
 ======
+* Associate Editor: IEEE Transactions on Big Data
 * Program Committee: AAAI 2023, ICDCS 2023, IJCAI 2023, IEEE ISI 2023, AAAI 2024, SDM 2024, CCGRID 2024
 * Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023, WACV 2024, WWW 2024, CVPR 2024
 * Journal Reviewer: IEEE TKDE, IEEE TPAMI, IEEE TIFS, IEEE TSC, ACM TOIT, Journal of Information Security and Applications, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems, The Journal of Supercomputing, Neural Networks, Frontiers of Computer Science, Image and Vision Computing, e-Prime, Expert Systems with Applications, Future Generation Computer Systems, Journal of Network and Computer Applications, Image and Vision Computing, Computer Vision and Image Understanding, SoftwareX, Computers and Electrical Engineering, Journal of Industrial Information Integration, Artificial Intelligence in Medicine, Neurocomputing
@@ -363,7 +389,7 @@ Awards & Scholarship
 
 Non-academic
 ======
-* Sports: When I'm not working in the lab, you may find me running on the court or playing table tennis.
+* Sports: When I'm not working in the lab, you may find me running on the court or playing table tennis. My PB for the half marathon is [1:44:36](https://www.athlinks.com/event/365737/results/Event/1074225/Course/2446907/Bib/322). 
 * Literature & music: I love reading novels and listening to music.
 
 
