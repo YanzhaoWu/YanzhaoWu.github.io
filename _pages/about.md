@@ -18,10 +18,30 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**LATTICE: Efficient In-Memory DNN Model Versioning**_\
+Manoj P. Saha, Ashikee Ghosh, Raju Rangaswami, **Yanzhao Wu**, Janki Bhimani\
+2025 ACM International Systems and Storage Conference (SYSTOR 2025)
+
+
+* _**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**_\
+Hongpeng Jin*, **Yanzhao Wu**\
+2025 IEEE International Conference on Web Services (ICWS 2025) \
+[[arXiv](https://arxiv.org/abs/2411.02829)]
+
 * _**Security and Privacy Challenges of Large Language Models: A Survey**_\
 Badhan Chandra Das*, M. Hadi Amini, **Yanzhao Wu**\
 ACM Computing Surveys\
 [[paper](https://dl.acm.org/doi/10.1145/3712001)][[arXiv](https://arxiv.org/abs/2402.00888)]
+
+* _**NeRF-APT: A New NeRF Framework for Wireless Channel Prediction**_\
+Jingzhou Shen, Tianya Zhao, **Yanzhao Wu**, Xuyu Wang\
+2025 IEEE International Conference on Computer Communications (INFOCOM 2025) Workshops - DeepWireless\
+[[arXiv](https://arxiv.org/abs/2504.16094)]
+
+* _**Accessible Health Screening Using Body Fat Estimation by Image Segmentation**_\
+Zhipeng Yin, Sameeksha Agarwal, Ayesha Kashif, Matthew Gonzalez, Zichong Wang, Suqing Liu, Zhen Liu, **Yanzhao Wu**, Ian Stockwell, Weifeng Xu, Puqing Jiang, Xingyu Zhang, Wenbin Zhang\
+2024 IEEE International Conference on Data Mining (ICDM) Workshops - ETDLH\
+[[paper](https://ieeexplore.ieee.org/abstract/document/10917928)]
 
 * _**Effective Diversity Optimizations for High Accuracy Deep Ensembles**_\
 Hongpeng Jin*, Maryam Akhavan Aghdam*, Sai Nath Chowdary Medikonduru*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
@@ -35,9 +55,8 @@ Xirong Nashrah Haque, Xiang Li, Zhehui Chen, **Yanzhao Wu**, Lei Yu, Arun Iyenga
 
 * _**Individual Fairness with Group Awareness Under Uncertainty**_\
 Zichong Wang, Jocelyn Dzuong, Xiaoyong Yuan, Zhong Chen, **Yanzhao Wu**, Xin Yao, and Wenbin Zhang\
-2024 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024)\
+2024 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2024)\
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_6)]
-
 
 * _**On the Efficiency of Privacy Attacks in Federated Learning**_\
 Nawrin Tabassum*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
@@ -45,7 +64,7 @@ Nawrin Tabassum*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Tabassum_On_the_Efficiency_of_Privacy_Attacks_in_Federated_Learning_CVPRW_2024_paper.html)][[arXiv](https://arxiv.org/abs/2404.09430)][[code](https://github.com/mlsysx/EPAFL)]
 
 * _**Backdoor Attacks Against Low-Earth Orbit Satellite Fingerprinting**_\
-Tianya Zhao, Ningning Wang, **Yanzhao Wu**, Wenbin Zhang and Xuyu Wang\
+Tianya Zhao, Ningning Wang, **Yanzhao Wu**, Wenbin Zhang, Xuyu Wang\
 2024 IEEE International Conference on Computer Communications (INFOCOM 2024) Workshops - DeepWireless
 
 * _**ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain**_\
