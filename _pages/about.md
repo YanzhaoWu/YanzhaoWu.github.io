@@ -137,7 +137,6 @@ Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
 2022 Georgia Institute of Technology\
 [[PhD Dissertation](https://hdl.handle.net/1853/72434)]
 
-
 * _**Transparent Network Memory Storage for Efficient Container Execution in Big Data Clouds**_\
 Juhyun Bae, Ling Liu, Ka-Ho Chow, **Yanzhao Wu**, Gong Su, and Arun
 Iyengar\
@@ -261,7 +260,6 @@ Ling Liu, **Yanzhao Wu**, Wenqi Wei, Wenqi Cao, Semih Sahin, and Qi Zhang\
 38th IEEE International Conference on Distributed Computing Systems (ICDCS 2018)\
 [[paper](https://ieeexplore.ieee.org/document/8416388)][[code](https://github.com/git-disl/GTDLBench)]
 
-
 * _**CCAligner: a token based large-gap clone detector**_\
 Pengcheng Wang, Jeffrey Svajlenko, **Yanzhao Wu**, Yun Xu, and Chanchal K. Roy\
 40th International Conference on Software Engineering (ICSE 2018)\
@@ -330,6 +328,7 @@ Teaching
   * Spring 2024: CAP4630: Artificial Intelligence
   * Fall 2024: CAP6619: Advanced Topics in Machine Learning
   * Spring 2025: CAP4630: Artificial Intelligence
+  * Fall 2025: CAP5602: Introduction to Artificial Intelligence
 
 
 **TA for**:
@@ -378,6 +377,7 @@ Professional Activities
 * Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023, WACV 2024, WWW 2024, CVPR 2024
 * Journal Reviewer: IEEE TKDE, IEEE TPAMI, IEEE TIFS, IEEE TSC, ACM TOIT, Journal of Information Security and Applications, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems, The Journal of Supercomputing, Neural Networks, Frontiers of Computer Science, Image and Vision Computing, e-Prime, Expert Systems with Applications, Future Generation Computer Systems, Journal of Network and Computer Applications, Image and Vision Computing, Computer Vision and Image Understanding, SoftwareX, Computers and Electrical Engineering, Journal of Industrial Information Integration, Artificial Intelligence in Medicine, Neurocomputing
 * NSF Panelist
+* NAIRR Pilot Reviewer
 
 Open-source Projects
 ======
