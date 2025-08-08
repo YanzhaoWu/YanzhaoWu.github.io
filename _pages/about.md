@@ -18,10 +18,13 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**EFT-LR: Benchmarking Learning Rate Policies in Parameter-Efficient Large Language Model Fine-tuning**_\
+Md Tasnim Jawad*, **Yanzhao Wu**\
+34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
+
 * _**LATTICE: Efficient In-Memory DNN Model Versioning**_\
 Manoj P. Saha, Ashikee Ghosh, Raju Rangaswami, **Yanzhao Wu**, Janki Bhimani\
 2025 ACM International Systems and Storage Conference (SYSTOR 2025)
-
 
 * _**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**_\
 Hongpeng Jin*, **Yanzhao Wu**\
