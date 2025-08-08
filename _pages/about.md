@@ -355,7 +355,7 @@ Students
 ======
 * [Badhan Chandra Das](https://sites.google.com/view/badhan-das) (PhD Student, Co-advised with Prof. M. Hadi Amini, Spring 2023 - Present)
 * [Hongpeng Jin](https://scholar.google.com/citations?user=Kkmx5XwAAAAJ&hl=en) (PhD Student, Fall 2023 - Present)
-* [Maryam Akhavan Aghdam](https://www.linkedin.com/in/maryam-akhavan-aghdam/) (PhD Student, Summer 2024 - Present)
+* [Md Tasnim Jawad](https://scholar.google.com/citations?user=6VOwVbwAAAAJ&hl=en) (PhD Student, Fall 2024 - Present)
 
 Talks
 ======
