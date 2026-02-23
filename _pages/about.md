@@ -18,6 +18,11 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models**_\
+Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
+14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025) Findings\
+[[paper](https://aclanthology.org/2025.findings-ijcnlp.97/)]
+
 * _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
 Badhan Chandra Das, Md Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
 2025 International Conference on Machine Learning and Applications (ICMLA)\
