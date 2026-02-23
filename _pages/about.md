@@ -18,18 +18,35 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
+Badhan Chandra Das, Md Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
+2025 International Conference on Machine Learning and Applications (ICMLA)\
+[[arXiv](https://arxiv.org/abs/2511.13892)]
+
+* _**A Diversity-optimized Deep Ensemble Approach for Accurate Plant Leaf Disease Detection**_\
+Sai Nath Chowdary Medikonduru, Hongpeng Jin, **Yanzhao Wu**\
+2025 IEEE International Conference on Big Data (IEEE BigData 2025) - AIDA Workshop\
+[[arXiv](https://arxiv.org/abs/2511.16982)]
+
+* _**Augmenting Question Answering with A Hybrid RAG Approach**_\
+Tianyi Yang, Nashrah Haque, Vaishnave Jonnalagadda, Yuya Jeremy Ong, Zhehui Chen, **Yanzhao Wu**, Lei Yu, Divyesh Jadav, Wenqi Wei\
+2025 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2025)\
+[[arXiv](https://arxiv.org/abs/2601.12658)]
+
 * _**EFT-LR: Benchmarking Learning Rate Policies in Parameter-Efficient Large Language Model Fine-tuning**_\
 Md Tasnim Jawad*, **Yanzhao Wu**\
-34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
+34th ACM International Conference on Information and Knowledge Management (CIKM 2025)\
+[[paper](https://dl.acm.org/doi/10.1145/3746252.3761630)][[code](https://github.com/mlsysx/EFT-LR)]
 
 * _**LATTICE: Efficient In-Memory DNN Model Versioning**_\
 Manoj P. Saha, Ashikee Ghosh, Raju Rangaswami, **Yanzhao Wu**, Janki Bhimani\
-2025 ACM International Systems and Storage Conference (SYSTOR 2025)
+2025 ACM International Systems and Storage Conference (SYSTOR 2025)\
+[[paper](https://dl.acm.org/doi/10.1145/3757347.3759139)]
 
 * _**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**_\
 Hongpeng Jin*, **Yanzhao Wu**\
 2025 IEEE International Conference on Web Services (ICWS 2025) \
-[[arXiv](https://arxiv.org/abs/2411.02829)]
+[[paper](https://ieeexplore.ieee.org/document/11169709)][[arXiv](https://arxiv.org/abs/2411.02829)][[code](https://github.com/mlsysx/CE-CoLLM)]
 
 * _**Security and Privacy Challenges of Large Language Models: A Survey**_\
 Badhan Chandra Das*, M. Hadi Amini, **Yanzhao Wu**\
