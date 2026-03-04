@@ -18,18 +18,22 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Robust Feature Attribution via Integrated Sensitivity Gradients**_\
+Rukmangadh Sai Myana*, Sumit Kumar Jha, **Yanzhao Wu**\
+{The Fourteenth International Conference on Learning Representations (ICLR 2026) - Trustworthy AI Workshop
+
 * _**CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models**_\
 Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025) Findings\
 [[paper](https://aclanthology.org/2025.findings-ijcnlp.97/)]
 
 * _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
-Badhan Chandra Das, Md Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
+Badhan Chandra Das*, Md Tasnim Jawad*, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
 2025 International Conference on Machine Learning and Applications (ICMLA)\
 [[arXiv](https://arxiv.org/abs/2511.13892)]
 
 * _**A Diversity-optimized Deep Ensemble Approach for Accurate Plant Leaf Disease Detection**_\
-Sai Nath Chowdary Medikonduru, Hongpeng Jin, **Yanzhao Wu**\
+Sai Nath Chowdary Medikonduru*, Hongpeng Jin*, **Yanzhao Wu**\
 2025 IEEE International Conference on Big Data (IEEE BigData 2025) - AIDA Workshop\
 [[arXiv](https://arxiv.org/abs/2511.16982)]
 
@@ -354,6 +358,7 @@ Teaching
   * Fall 2024: CAP6619: Advanced Topics in Machine Learning
   * Spring 2025: CAP4630: Artificial Intelligence
   * Fall 2025: CAP5602: Introduction to Artificial Intelligence
+  * Spring 2026: CAI4002: Artificial Intelligence
 
 
 **TA for**:
@@ -420,7 +425,10 @@ Open-source Projects
 
 Awards & Scholarship
 ======
-* FIU STEM Transformation Institute Faculty Fellow, 2023-2024
+* FIU STEM Transformation Institute Faculty Fellow, 2023-2026
+* Excellent Program Committee Member for IEEE ICMLA, 2025
+* Excellent Service Award for IEEE CIC/CogMI/TPS, 2025
+* Excellent Service Award for IEEE CIC/CogMI/TPS, 2024
 * IEEE CIC Best Paper Award, December 2021
 * ICDM 2021 Student Attendance Award, December 2021
 * College of Computing Student Travel Award, December 2020
