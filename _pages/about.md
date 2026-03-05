@@ -20,7 +20,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 
 * _**Robust Feature Attribution via Integrated Sensitivity Gradients**_\
 Rukmangadh Sai Myana*, Sumit Kumar Jha, **Yanzhao Wu**\
-{The Fourteenth International Conference on Learning Representations (ICLR 2026) - Trustworthy AI Workshop
+The Fourteenth International Conference on Learning Representations (ICLR 2026) - Trustworthy AI Workshop
 
 * _**CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models**_\
 Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
