@@ -18,8 +18,12 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Exploring Robust Multi-Agent Workflows for Environmental Data Management**_\
+Boyuan Guan, Jason Liu, **Yanzhao Wu**, Kiavash Bahreini\
+2026 ACM Practice and Experience in Advanced Research Computing 2025 (PEARC '26)
+
 * _**Robust Feature Attribution via Integrated Sensitivity Gradients**_\
-Rukmangadh Sai Myana*, Sumit Kumar Jha, **Yanzhao Wu**\
+Rukmangadh Sai Myana\*, Sumit Kumar Jha, **Yanzhao Wu**\
 The Fourteenth International Conference on Learning Representations (ICLR 2026) - Trustworthy AI Workshop
 
 * _**CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models**_\
@@ -28,14 +32,14 @@ Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
 [[paper](https://aclanthology.org/2025.findings-ijcnlp.97/)]
 
 * _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
-Badhan Chandra Das*, Md Tasnim Jawad*, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
+Badhan Chandra Das\*, Md Tasnim Jawad\*, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
 2025 International Conference on Machine Learning and Applications (ICMLA)\
 [[arXiv](https://arxiv.org/abs/2511.13892)]
 
 * _**A Diversity-optimized Deep Ensemble Approach for Accurate Plant Leaf Disease Detection**_\
-Sai Nath Chowdary Medikonduru*, Hongpeng Jin*, **Yanzhao Wu**\
+Sai Nath Chowdary Medikonduru\*, Hongpeng Jin\*, **Yanzhao Wu**\
 2025 IEEE International Conference on Big Data (IEEE BigData 2025) - AIDA Workshop\
-[[arXiv](https://arxiv.org/abs/2511.16982)]
+[[paper](https://ieeexplore.ieee.org/document/11402632)][[arXiv](https://arxiv.org/abs/2511.16982)]
 
 * _**Augmenting Question Answering with A Hybrid RAG Approach**_\
 Tianyi Yang, Nashrah Haque, Vaishnave Jonnalagadda, Yuya Jeremy Ong, Zhehui Chen, **Yanzhao Wu**, Lei Yu, Divyesh Jadav, Wenqi Wei\
@@ -43,7 +47,7 @@ Tianyi Yang, Nashrah Haque, Vaishnave Jonnalagadda, Yuya Jeremy Ong, Zhehui Chen
 [[arXiv](https://arxiv.org/abs/2601.12658)]
 
 * _**EFT-LR: Benchmarking Learning Rate Policies in Parameter-Efficient Large Language Model Fine-tuning**_\
-Md Tasnim Jawad*, **Yanzhao Wu**\
+Md Tasnim Jawad\*, **Yanzhao Wu**\
 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)\
 [[paper](https://dl.acm.org/doi/10.1145/3746252.3761630)][[code](https://github.com/mlsysx/EFT-LR)]
 
@@ -53,12 +57,12 @@ Manoj P. Saha, Ashikee Ghosh, Raju Rangaswami, **Yanzhao Wu**, Janki Bhimani\
 [[paper](https://dl.acm.org/doi/10.1145/3757347.3759139)]
 
 * _**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**_\
-Hongpeng Jin*, **Yanzhao Wu**\
+Hongpeng Jin\*, **Yanzhao Wu**\
 2025 IEEE International Conference on Web Services (ICWS 2025) \
 [[paper](https://ieeexplore.ieee.org/document/11169709)][[arXiv](https://arxiv.org/abs/2411.02829)][[code](https://github.com/mlsysx/CE-CoLLM)]
 
 * _**Security and Privacy Challenges of Large Language Models: A Survey**_\
-Badhan Chandra Das*, M. Hadi Amini, **Yanzhao Wu**\
+Badhan Chandra Das\*, M. Hadi Amini, **Yanzhao Wu**\
 ACM Computing Surveys\
 [[paper](https://dl.acm.org/doi/10.1145/3712001)][[arXiv](https://arxiv.org/abs/2402.00888)]
 
@@ -73,7 +77,7 @@ Zhipeng Yin, Sameeksha Agarwal, Ayesha Kashif, Matthew Gonzalez, Zichong Wang, S
 [[paper](https://ieeexplore.ieee.org/abstract/document/10917928)]
 
 * _**Effective Diversity Optimizations for High Accuracy Deep Ensembles**_\
-Hongpeng Jin*, Maryam Akhavan Aghdam*, Sai Nath Chowdary Medikonduru*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
+Hongpeng Jin\*, Maryam Akhavan Aghdam\*, Sai Nath Chowdary Medikonduru*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
 2024 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10835519)]
 
@@ -88,7 +92,7 @@ Zichong Wang, Jocelyn Dzuong, Xiaoyong Yuan, Zhong Chen, **Yanzhao Wu**, Xin Yao
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_6)]
 
 * _**On the Efficiency of Privacy Attacks in Federated Learning**_\
-Nawrin Tabassum*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
+Nawrin Tabassum\*, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) Workshops - FedVision\
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Tabassum_On_the_Efficiency_of_Privacy_Attacks_in_Federated_Learning_CVPRW_2024_paper.html)][[arXiv](https://arxiv.org/abs/2404.09430)][[code](https://github.com/mlsysx/EPAFL)]
 
