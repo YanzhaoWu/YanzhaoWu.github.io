@@ -363,6 +363,7 @@ Teaching
   * Spring 2025: CAP4630: Artificial Intelligence
   * Fall 2025: CAP5602: Introduction to Artificial Intelligence
   * Spring 2026: CAI4002: Artificial Intelligence
+  * New course proposal under review: CAIXXXX: Generative AI
 
 
 **TA for**:
@@ -387,9 +388,12 @@ Teaching
 
 Students
 ======
-* [Badhan Chandra Das](https://sites.google.com/view/badhan-das) (PhD Student, Co-advised with Prof. M. Hadi Amini, Spring 2023 - Present)
-* [Hongpeng Jin](https://scholar.google.com/citations?user=Kkmx5XwAAAAJ&hl=en) (PhD Student, Fall 2023 - Present)
-* [Md Tasnim Jawad](https://scholar.google.com/citations?user=6VOwVbwAAAAJ&hl=en) (PhD Student, Fall 2024 - Present)
+* [Badhan Chandra Das](https://sites.google.com/view/badhan-das) (PhD Student, Co-advised with Prof. M. Hadi Amini, Spring 2023 - Present, Passed Proposal Defense)
+* [Md Tasnim Jawad](https://scholar.google.com/citations?user=6VOwVbwAAAAJ&hl=en) (PhD Student, Fall 2024 - Present, Passed Qualifying Exam)
+* [Rukmangadh Sai Myana](https://scholar.google.com/citations?user=e3YgS3MAAAAJ&hl=en) (PhD Student, Fall 2025 - Present, Passed Qualifying Exam)
+* [Abhijith Babu](https://www.linkedin.com/in/abhijith-sreesylesh-babu-4733aa187/) (PhD Student, Fall 2025 - Present)
+
+
 
 Talks
 ======
