@@ -397,8 +397,9 @@ Students
 
 Talks
 ======
+* NAIRR Pilot Conference for Community Colleges 2026, Miami, FL, USA, Feb 18, 2026
 * IEEE CogMI 2024, Washington D.C., USA, Oct. 28-30, 2024
-* IEEE/CVF CVPR Workshops 2021, Seattle, WA, USA, June 17, 2024
+* IEEE/CVF CVPR Workshops - FedVision 2024, Seattle, WA, USA, June 17, 2024
 * IEEE CogMI 2023, Atlanta, GA, USA, Nov. 1-3, 2023
 * IEEE CogMI 2021, Virtual Conference, Dec. 13-15, 2021
 * IEEE ICDM 2021, Auckland, New Zealand, Dec. 7-10, 2021
@@ -411,11 +412,19 @@ Talks
 Professional Activities
 ======
 * Associate Editor: IEEE Transactions on Big Data
-* Program Committee: AAAI 2023, ICDCS 2023, IJCAI 2023, IEEE ISI 2023, AAAI 2024, SDM 2024, CCGRID 2024
-* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, WWW 2021, CVPR 2022, ECCV 2022, CVPR 2023, KDD 2023, ICCV 2023, WACV 2024, WWW 2024, CVPR 2024
-* Journal Reviewer: IEEE TKDE, IEEE TPAMI, IEEE TIFS, IEEE TSC, ACM TOIT, Journal of Information Security and Applications, Digital Communications and Networks, Computers & Security, Information Sciences, Knowledge-Based Systems, The Journal of Supercomputing, Neural Networks, Frontiers of Computer Science, Image and Vision Computing, e-Prime, Expert Systems with Applications, Future Generation Computer Systems, Journal of Network and Computer Applications, Image and Vision Computing, Computer Vision and Image Understanding, SoftwareX, Computers and Electrical Engineering, Journal of Industrial Information Integration, Artificial Intelligence in Medicine, Neurocomputing
+* Publicity Chair: IEEE CIC/CogMI/TPS 2024/2025
+* Student Travel Grant Chair: IEEE CIC/CogMI/TPS 2025
+* Senior Program Committee Member: IJCAI 2026
+* Program Committee Member: AAAI (2023, 2024), IJCAI (2023-2026), ICDCS 2023, IEEE ISI 2023, SDM 2024, CCGRID 2024, CIKM 2025, ICMLA 2025, SMLHBD Workshop 2025, USENIX Security 2026, KDD (2025-2026)
+* Conference Reviewer: ICDE 2018, UCC 2018, BDCAT 2018, ICDCS 2019, CVPR (2022-2025), ECCV (2022, 2024), KDD 2023, ICCV 2023, WACV (2024, 2025), EuroSys 2025, WWW (2021, 2024-2026)
+* Journal Reviewer: IEEE TKDE, IEEE TPAMI, IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE JSAC, IEEE Network Magazine, IEEE TSC, IEEE TCCN, IEEE Internet of Things Journal, IEEE TETCI, ACM TOIT, ACM TOSEM, ACM TOMM, ACM TOPS, Journal of Information Security and Applications, Digital Communications and Networks, Computers \& Security, Information Sciences, Knowledge-Based Systems, The Journal of Supercomputing, Neural Networks, Frontiers of Computer Science, e-Prime, Expert Systems with Applications, Future Generation Computer Systems, Journal of Network and Computer Applications, Image and Vision Computing, Computer Vision and Image Understanding, SoftwareX, Computers and Electrical Engineering, Journal of Industrial Information Integration, Artificial Intelligence in Medicine, Neurocomputing, Array, Information Fusion, Scientific Reports, Nature Communications, Nature Machine Intelligence
 * NSF Panelist
+* NSF Ad Hoc Reviewer
 * NAIRR Pilot Reviewer
+* KFSCIS Ph.D. Admissions Committee Member (2023-Present)
+* KFSCIS Student Conduct and Academic Integrity Committee Member (2024-Present)
+* FIU Student Conduct Committee Member (2024-Present)
+
 
 Open-source Projects
 ======
