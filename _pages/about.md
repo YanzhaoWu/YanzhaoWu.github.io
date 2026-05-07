@@ -34,7 +34,7 @@ Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
 * _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
 Badhan Chandra Das\*, Md Tasnim Jawad\*, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
 2025 International Conference on Machine Learning and Applications (ICMLA)\
-[[arXiv](https://arxiv.org/abs/2511.13892)]
+[[paper](https://ieeexplore.ieee.org/document/11471319)][[code](https://github.com/mlsysx/VLM-Jailbreaking)][[arXiv](https://arxiv.org/abs/2511.13892)]
 
 * _**A Diversity-optimized Deep Ensemble Approach for Accurate Plant Leaf Disease Detection**_\
 Sai Nath Chowdary Medikonduru\*, Hongpeng Jin\*, **Yanzhao Wu**\
