@@ -18,9 +18,32 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**Retrieval-Augmented Foundation Models for Water Level Prediction in the Everglades**_\
+Rahuul Rangaraj, Jimeng Shi, Rajendra Paudel, Giri Narasimhan, **Yanzhao Wu**\
+32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)\
+[[arXiv](https://arxiv.org/abs/2508.04888)]
+
+* _**CEQuest: Benchmarking Large Language Models for Construction Estimation**_\
+**Yanzhao Wu**, Lufan Wang, Rui Liu\
+International Conference on Computing in Civil Engineering 2026 (i3CE 2026)\
+[[code](https://github.com/mlsysx/CEQuest)][[arXiv](https://arxiv.org/abs/2508.16081)]
+
+* _**An Integrated Deep Learning and Ontological Approach on Construction Sites -- Ladder Usage Case Study**_\
+Dyala Aljagoub, Mohammad Dabash, Edgar Small, Lufan Wang, **Yanzhao Wu**, Ri Na\
+International Conference on Computing in Civil Engineering 2026 (i3CE 2026)\
+
+* _**Deep Learning and Foundation Models for Weather Prediction: A Survey**_\
+Jimeng Shi, Azam Shirali, Bowen Jin, Sizhe Zhou, Wei Hu, Rahuul Rangaraj, Zhaonan Wang, **Yanzhao Wu**, Leonardo Bobadilla, Upmanu Lall, Shaowen Wang, Jiawei Han, Giri Narasimhan\
+35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)\
+[[arXiv](https://arxiv.org/abs/2501.06907)]
+
 * _**Exploring Robust Multi-Agent Workflows for Environmental Data Management**_\
 Boyuan Guan, Jason Liu, **Yanzhao Wu**, Kiavash Bahreini\
-2026 ACM Practice and Experience in Advanced Research Computing 2025 (PEARC '26)
+2026 ACM Practice and Experience in Advanced Research Computing (PEARC '26)
+
+* _**CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models**_\
+Abhijith Babu\*, Ramneet Kaur, Nathaniel D. Bastian, Olivera Kotevska, Susmit Jha, **Yanzhao Wu**, Sumit Kumar Jha, Anirban Roy\
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026) - Workshop on Visual Concepts\
 
 * _**Robust Feature Attribution via Integrated Sensitivity Gradients**_\
 Rukmangadh Sai Myana\*, Sumit Kumar Jha, **Yanzhao Wu**\
@@ -152,7 +175,7 @@ Xirong Cao, Xiang Li, Divyesh Jadav, **Yanzhao Wu**, Zhehui Chen, Chen Zeng, and
 
 * _**Securing Distributed SGD against Gradient Leakage Threats**_\
 Wenqi Wei, Ling Liu, Jingya Zhou, Ka-Ho Chow, and **Yanzhao Wu**\
-2023 IEEE Transactions on Parallel and Distributed Systems\
+IEEE Transactions on Parallel and Distributed Systems\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10119168)][[arXiv](https://arxiv.org/abs/2305.06473)][[code](https://github.com/git-disl/Fed-alphaCDP)]
 
 * _**STDLens: Model Hijacking-Resilient Federated Learning for Object Detection**_\
@@ -162,7 +185,7 @@ Ka-Ho Chow, Ling Liu, Wenqi Wei, Fatih Ilhan, and **Yanzhao Wu**\
 
 * _**Selecting and Composing Learning Rate Policies for Deep Neural Networks**_\
 **Yanzhao Wu**, Ling Liu\
-2022 ACM Transactions on Intelligent Systems and Technology\
+ACM Transactions on Intelligent Systems and Technology\
 [[paper](https://dl.acm.org/doi/10.1145/3570508)][[arXiv](https://arxiv.org/abs/2210.12936)][[code](https://github.com/git-disl/LRBench)]
 
 * _**Towards Deep Learning System and Algorithm Co-design**_\
@@ -195,7 +218,7 @@ Iyengar\
 
 * _**Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
-2021 ACM Transactions on Information Systems (TOIS)\
+ACM Transactions on Information Systems (TOIS)\
 [[paper](https://dl.acm.org/doi/10.1145/3490519)][[arXiv](https://arxiv.org/abs/2110.11592)][[code](https://github.com/git-disl/SEJE)]
 
 * _**Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics**_\
@@ -210,7 +233,7 @@ Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyenger\
 
 * _**Learning TFIDF Enhanced Joint Embedding for Recipe-Image Cross-Modal Retrieval Service**_\
 Zhongwei Xie, Ling Liu, **Yanzhao Wu**, Lin Li, and Luo Zhong\
-2021 IEEE Transactions on Services Computing (TSC)\
+IEEE Transactions on Services Computing (TSC)\
 [[paper](https://ieeexplore.ieee.org/abstract/document/9495171)][[arXiv](https://arxiv.org/abs/2108.00724)][[code](https://github.com/git-disl/MSJE)]
 
 * _**Promoting High Diversity Ensemble Learning with EnsembleBench**_\
@@ -275,7 +298,7 @@ Ling Liu, Wenqi Wei, Ka-Ho Chow, Margaret Loper, Emre Gursoy, Stacey Truex, and 
 
 * _**A Comparative Measurement Study of Deep Learning as a Service Framework**_\
 **Yanzhao Wu**, Ling Liu, Calton Pu, Wenqi Cao, Semih Sahin, Wenqi Wei, and Qi Zhang\
-2019 IEEE Transactions on Services Computing (TSC)\
+IEEE Transactions on Services Computing (TSC)\
 [[paper](https://ieeexplore.ieee.org/document/8765795)][[arXiv](https://arxiv.org/abs/1810.12210)][[code](https://github.com/git-disl/GTDLBench)]
 
 * _**Memory Disaggregation: Research Problems and Opportunities**_\
@@ -363,7 +386,7 @@ Teaching
   * Spring 2025: CAP4630: Artificial Intelligence
   * Fall 2025: CAP5602: Introduction to Artificial Intelligence
   * Spring 2026: CAI4002: Artificial Intelligence
-  * New course proposal under review: CAIXXXX: Generative AI
+  * Fall 2026: New CAI 5607: Generative Artificial Intelligence
 
 
 **TA for**:
@@ -443,6 +466,7 @@ Open-source Projects
 Awards & Scholarship
 ======
 * FIU STEM Transformation Institute Faculty Fellow, 2023-2026
+* Gold Tier Reviewer for IJCAI-ECAI 2026
 * Excellent Program Committee Member for IEEE ICMLA, 2025
 * Excellent Service Award for IEEE CIC/CogMI/TPS, 2025
 * Excellent Service Award for IEEE CIC/CogMI/TPS, 2024
