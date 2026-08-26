@@ -11,17 +11,27 @@ redirect_from:
 I am an assistant professor in the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I obtained the Bachelor’s degree from University of Science and Technology of China (USTC) in 2017 and then received my PhD in Computer Science from Georgia Institute of Technology in 2022. My research interests are primarily centered on the intersection of machine learning and computing systems, including machine learning algorithm and system optimizations, deep learning, large language models (LLMs), edge AI, big data analytics and their real-world applications.
 
 
-<span style="color:red">Several fully-funded postdoctoral and Computer Science PhD positions are available. Feel free to contact me regarding postdoctoral opportunities, PhD applications, internships, and visiting students/scholars.</span>
+<span style="color:red">Several fully funded postdoctoral and Computer Science PhD positions are available. Feel free to contact me regarding postdoctoral opportunities, PhD applications, internships, and visiting students/scholars.</span>
 
 
 Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**STAR-FL: Secure Federated Learning with Spatial-Temporal Analysis and Robust Aggregation**_\
+Nawrin Tabassum, **Yanzhao Wu**\
+2026 IEEE Conference on Communications and Network Security (IEEE CNS 2026)\
+[[code](https://github.com/mlsysx/STAR-FL)][[arXiv](https://arxiv.org/abs/2608.14861)]
+
+* _**Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency**_\
+Manoj Saha, **Yanzhao Wu**, Cláudia Brito, Raju Rangaswami, João Paulo, Ricardo Macedo, Janki Bhimani\
+ACM Transactions on Architecture and Code Optimization\
+[[paper](https://dl.acm.org/doi/10.1145/3830082)]
+
 * _**Retrieval-Augmented Foundation Models for Water Level Prediction in the Everglades**_\
-Rahuul Rangaraj, Jimeng Shi, Rajendra Paudel, Giri Narasimhan, **Yanzhao Wu**\
+Rahuul Rangaraj\*, Jimeng Shi, Rajendra Paudel, Giri Narasimhan, **Yanzhao Wu**\
 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)\
-[[arXiv](https://arxiv.org/abs/2508.04888)]
+[[paper](https://dl.acm.org/doi/10.1145/3770855.3818897)][[code](https://github.com/mlsysx/WaterRAF/)][[arXiv](https://arxiv.org/abs/2508.04888)]
 
 * _**CEQuest: Benchmarking Large Language Models for Construction Estimation**_\
 **Yanzhao Wu**, Lufan Wang, Rui Liu\
@@ -30,7 +40,7 @@ International Conference on Computing in Civil Engineering 2026 (i3CE 2026)\
 
 * _**An Integrated Deep Learning and Ontological Approach on Construction Sites -- Ladder Usage Case Study**_\
 Dyala Aljagoub, Mohammad Dabash, Edgar Small, Lufan Wang, **Yanzhao Wu**, Ri Na\
-International Conference on Computing in Civil Engineering 2026 (i3CE 2026)\
+International Conference on Computing in Civil Engineering 2026 (i3CE 2026)
 
 * _**Deep Learning and Foundation Models for Weather Prediction: A Survey**_\
 Jimeng Shi, Azam Shirali, Bowen Jin, Sizhe Zhou, Wei Hu, Rahuul Rangaraj, Zhaonan Wang, **Yanzhao Wu**, Leonardo Bobadilla, Upmanu Lall, Shaowen Wang, Jiawei Han, Giri Narasimhan\
@@ -39,11 +49,13 @@ Jimeng Shi, Azam Shirali, Bowen Jin, Sizhe Zhou, Wei Hu, Rahuul Rangaraj, Zhaona
 
 * _**Exploring Robust Multi-Agent Workflows for Environmental Data Management**_\
 Boyuan Guan, Jason Liu, **Yanzhao Wu**, Kiavash Bahreini\
-2026 ACM Practice and Experience in Advanced Research Computing (PEARC '26)
+2026 ACM Practice and Experience in Advanced Research Computing (PEARC 2026)\
+[[paper](https://dl.acm.org/doi/10.1145/3785462.3815810)][[arXiv](https://arxiv.org/abs/2604.01647)]
 
 * _**CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models**_\
 Abhijith Babu\*, Ramneet Kaur, Nathaniel D. Bastian, Olivera Kotevska, Susmit Jha, **Yanzhao Wu**, Sumit Kumar Jha, Anirban Roy\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026) - Workshop on Visual Concepts\
+[[paper](https://openreview.net/forum?id=ri3c82xhcX)][[arXiv](https://arxiv.org/abs/2606.00269)]
 
 * _**Robust Feature Attribution via Integrated Sensitivity Gradients**_\
 Rukmangadh Sai Myana\*, Sumit Kumar Jha, **Yanzhao Wu**\
@@ -52,7 +64,7 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026) 
 * _**CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models**_\
 Chaohao Lin, Kaida Wu, Peihao Xiang, **Yanzhao Wu**, Ou Bai\
 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025) Findings\
-[[paper](https://aclanthology.org/2025.findings-ijcnlp.97/)]
+[[paper](https://aclanthology.org/2025.findings-ijcnlp.97/)][[code](https://github.com/mlsysx/CLLRetICL)]
 
 * _**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**_\
 Badhan Chandra Das\*, Md Tasnim Jawad\*, Md Jueal Mia, M. Hadi Amini, **Yanzhao Wu**\
@@ -100,7 +112,7 @@ Zhipeng Yin, Sameeksha Agarwal, Ayesha Kashif, Matthew Gonzalez, Zichong Wang, S
 [[paper](https://ieeexplore.ieee.org/abstract/document/10917928)]
 
 * _**Effective Diversity Optimizations for High Accuracy Deep Ensembles**_\
-Hongpeng Jin\*, Maryam Akhavan Aghdam\*, Sai Nath Chowdary Medikonduru*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
+Hongpeng Jin\*, Maryam Akhavan Aghdam\*, Sai Nath Chowdary Medikonduru\*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, **Yanzhao Wu**\
 2024 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10835519)]
 
@@ -144,7 +156,7 @@ IEEE Transactions on Services Computing\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10354520)]
 
 * _**Privacy Risks Analysis and Mitigation in Federated Learning for Medical Images**_\
-Badhan Chandra Das*, M. Hadi Amini, and **Yanzhao Wu**\
+Badhan Chandra Das\*, M. Hadi Amini, and **Yanzhao Wu**\
 2023 International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)\
 [[paper](https://ieeexplore.ieee.org/document/10385829)][[arXiv](https://arxiv.org/abs/2311.06643)][[code](https://github.com/mlsysx/MedPFL)]
 
@@ -159,7 +171,7 @@ Wenqi Wei, Ka-Ho Chow, Fatih Ilhan, **Yanzhao Wu**, and Ling Liu\
 [[paper](https://ieeexplore.ieee.org/document/10415670)][[code](https://github.com/git-disl/ModelCloak)]
 
 * _**Rethinking Learning Rate Tuning in the Era of Large Language Models**_\
-Hongpeng Jin*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, and **Yanzhao Wu**\
+Hongpeng Jin\*, Wenqi Wei, Xuyu Wang, Wenbin Zhang, and **Yanzhao Wu**\
 2023 IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2023)\
 [[paper](https://ieeexplore.ieee.org/document/10431584)][[arXiv](https://arxiv.org/abs/2309.08859)][[code](https://github.com/mlsysx/LRBenchPlusPlus)]
 
@@ -227,7 +239,7 @@ ACM Transactions on Information Systems (TOIS)\
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.html)][[code](https://github.com/git-disl/DP-Ensemble)][[video](https://youtu.be/jmHTCE3mrR4)]
 
 * _**Gradient-Leakage Resilient Federated Learning**_\
-Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyenger\
+Wenqi Wei, Ling Liu, **Yanzhao Wu**, Gong Su, and Arun Iyengar\
 41st IEEE International Conference on Distributed Computing Systems (ICDCS 2021)\
 [[paper](https://ieeexplore.ieee.org/abstract/document/9546481)][[arXiv](https://arxiv.org/abs/2107.01154)][[code](https://github.com/git-disl/Fed-CDP)]
 
@@ -386,7 +398,7 @@ Teaching
   * Spring 2025: CAP4630: Artificial Intelligence
   * Fall 2025: CAP5602: Introduction to Artificial Intelligence
   * Spring 2026: CAI4002: Artificial Intelligence
-  * Fall 2026: New CAI 5607: Generative Artificial Intelligence
+  * Fall 2026: CAI 5607: Generative Artificial Intelligence
 
 
 **TA for**:
@@ -463,7 +475,7 @@ Open-source Projects
 * [CCAligner](https://github.com/PCWcn/CCAligner): A token based code clone detector for detecting large-gap copy-and-paste source codes.
 * [PRISM](http://www.prismmodelchecker.org/): Building the LTS and Game model checkers for PRISM, a widely applied model checker for system analysis.
 
-Awards & Scholarship
+Awards & Scholarships
 ======
 * FIU STEM Transformation Institute Faculty Fellow, 2023-2026
 * Gold Tier Reviewer for IJCAI-ECAI 2026
