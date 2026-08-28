@@ -18,6 +18,11 @@ Publications
 ======
 You can also find my articles on [Google Scholar]({{site.author.googlescholar}}). Students under my supervision are marked with *.
 
+* _**In-depth Analysis of Privacy Threats in Federated Learning for Medical Data**_\
+Badhan Chandra Das\*, M. Hadi Amini, **Yanzhao Wu**\
+IEEE Journal of Biomedical and Health Informatics\
+[[arXiv](https://arxiv.org/abs/2409.18907)]
+
 * _**STAR-FL: Secure Federated Learning with Spatial-Temporal Analysis and Robust Aggregation**_\
 Nawrin Tabassum, **Yanzhao Wu**\
 2026 IEEE Conference on Communications and Network Security (IEEE CNS 2026)\
