@@ -21,7 +21,7 @@ You can also find my articles on [Google Scholar]({{site.author.googlescholar}})
 * _**In-depth Analysis of Privacy Threats in Federated Learning for Medical Data**_\
 Badhan Chandra Das\*, M. Hadi Amini, **Yanzhao Wu**\
 IEEE Journal of Biomedical and Health Informatics\
-[[arXiv](https://arxiv.org/abs/2409.18907)]
+[[paper](https://ieeexplore.ieee.org/document/11672983)][[arXiv](https://arxiv.org/abs/2409.18907)]
 
 * _**STAR-FL: Secure Federated Learning with Spatial-Temporal Analysis and Robust Aggregation**_\
 Nawrin Tabassum, **Yanzhao Wu**\
